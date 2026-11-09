@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "LibreTV 精选源",
   "version": 2,
   "snapshotDate": "2026-11-09",
@@ -26,12 +26,8 @@
   ],
   "liveSources": [
     { "name": "国内IPTV · zbds", "url": "https://live.zbds.top/tv/iptv4.m3u" },
-    { "name": "国内IPTV · iptv-org", "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u" },
-    { "name": "范明明 IPv6 (央视/卫视)", "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u" },
-    { "name": "suxuang 国内综合 IPv6", "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u" },
+    { "name": "国内综合 IPv4 (央视/卫视)", "url": "https://peterhchina.github.io/iptv/CNTV-V4.m3u" },
     { "name": "港澳台及海外 · YueChan", "url": "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u" },
-    { "name": "综合源 · Kimentanm", "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u" },
-    { "name": "综合源 · YanG", "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u" },
     { "name": "4K专区", "url": "https://gist.githubusercontent.com/yifanwang-yet/c2c9263066c0c5d20f50ce9b31d40e7e/raw/libretv-4k.m3u" }
   ]
 }
