@@ -1,0 +1,37 @@
+﻿{
+  "name": "LibreTV 精选源",
+  "version": 2,
+  "snapshotDate": "2026-11-09",
+  "sources": [
+    { "name": "360资源", "url": "https://360zyzz.com/api.php/provide/vod", "isAdult": false },
+    { "name": "iKun资源", "url": "https://ikunzyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "爱奇艺", "url": "https://iqiyizyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "百度云", "url": "https://api.apibdzy.com/api.php/provide/vod", "isAdult": false },
+    { "name": "光速资源", "url": "https://api.guangsuapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "豪华资源", "url": "https://hhzyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "红牛资源", "url": "https://www.hongniuzy2.com/api.php/provide/vod", "isAdult": false },
+    { "name": "虎牙资源", "url": "https://www.huyaapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "极速资源", "url": "https://jszyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "巨量资源", "url": "https://api.juliang.live/api/provide/vod", "isAdult": false },
+    { "name": "猫眼资源", "url": "https://api.maoyanapi.top/api.php/provide/vod", "isAdult": false },
+    { "name": "魔都动漫", "url": "https://caiji.moduapi.cc/api.php/provide/vod", "isAdult": false },
+    { "name": "如意资源", "url": "https://cj.rycjapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "速播资源", "url": "https://subocaiji.com/api.php/provide/vod", "isAdult": false },
+    { "name": "新浪资源", "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod", "isAdult": false },
+    { "name": "最大资源", "url": "https://api.zuidapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "暴风资源", "url": "https://bfzyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "金鹰资源", "url": "https://jyzyapi.com/provide/vod", "isAdult": false },
+    { "name": "魔都影视", "url": "https://www.mdzyapi.com/api.php/provide/vod", "isAdult": false },
+    { "name": "淘片资源", "url": "https://taopianapi.com/cjapi/mc/vod/json.html", "isAdult": false }
+  ],
+  "liveSources": [
+    { "name": "国内IPTV · zbds", "url": "https://live.zbds.top/tv/iptv4.m3u" },
+    { "name": "国内IPTV · iptv-org", "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u" },
+    { "name": "范明明 IPv6 (央视/卫视)", "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u" },
+    { "name": "suxuang 国内综合 IPv6", "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u" },
+    { "name": "港澳台及海外 · YueChan", "url": "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u" },
+    { "name": "综合源 · Kimentanm", "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u" },
+    { "name": "综合源 · YanG", "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u" },
+    { "name": "4K专区", "url": "https://gist.githubusercontent.com/yifanwang-yet/c2c9263066c0c5d20f50ce9b31d40e7e/raw/libretv-4k.m3u" }
+  ]
+}
