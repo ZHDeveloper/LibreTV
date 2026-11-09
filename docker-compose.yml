@@ -1,0 +1,49 @@
+# LibreTV Docker Compose
+# 项目地址：https://github.com/LibreSpark/LibreTV
+# 启动服务：docker compose up -d
+# 手动更新：docker compose pull && docker compose up -d
+# 查看日志：docker compose logs -f libretv
+
+services:
+  libretv:
+    # 官方预构建镜像（支持 linux/amd64 与 linux/arm64）
+    # 备选镜像源：docker.io/bestzwei/libretv:latest
+    image: ${LIBRETV_IMAGE:-ghcr.io/librespark/libretv:latest}
+    container_name: libretv
+    restart: unless-stopped
+    # 使用 host 网络模式绕过 OpenWrt Docker bridge 防火墙限制，直接监听宿主机 5480 端口
+    network_mode: host
+    # 无状态服务：观看历史在浏览器 IndexedDB、设置在 localStorage，无需挂载卷
+    environment:
+      - HOSTNAME=0.0.0.0
+      - PORT=${PORT:-5480}
+      - TZ=${TZ:-Asia/Shanghai}
+      # 必填：访问密码（默认设为 libretv，可在同目录 .env 文件或此处修改）
+      - PASSWORD=${PASSWORD:-libretv}
+      # 预置数据源订阅：LibreTV-SourceList JSON（含 16 个点播源 + 6 个直播源），客户端首次打开自动导入
+      - DEFAULT_SUBSCRIPTIONS=["https://api.npoint.io/46516b5794ecf16a1eda"]
+      # 可选：会话/代理签名密钥（多实例部署建议显式设置：openssl rand -hex 32）
+      # - PROXY_SECRET=
+      # 可选：Cookie Secure 策略覆盖（true=强制开启 / false=强制关闭；不设置时按请求协议自动推导，HTTP 部署无需配置）
+      # - COOKIE_SECURE=false
+      # 可选：预置点播采集站（JSON 数组）
+      # - DEFAULT_SOURCES=[{"name":"示例源","url":"https://example.com/api.php/provide/vod"}]
+      # 可选：预置直播源（JSON 数组）
+      # - DEFAULT_LIVE_SOURCES=[{"name":"示例直播源","url":"https://example.com/list.m3u"}]
+      # 可选：预置远程订阅源（LibreTV-SourceList JSON 或 TVBOX 配置链接，一次下发点播源 + 直播源）
+      # - DEFAULT_SUBSCRIPTIONS=["https://example.com/sources.json"]
+      # 可选：首页推荐数据源默认值（douban / bangumi / hot-list），仅对未主动选择过的用户生效
+      # - DEFAULT_RECOMMEND_SOURCE=douban
+      # 可选：自建内网 IPTV 放行（对拉列表、测活、拉流三个阶段同时生效，默认关闭以维持 SSRF 防护）
+      # - LIVE_ALLOW_PRIVATE=1
+      # 可选：代理上游请求超时（毫秒）与重试次数
+      # - REQUEST_TIMEOUT=8000
+      # - MAX_RETRIES=1
+      # 可选：每个搜索源最多抓取的页数（1-50，默认 5）
+      # - SEARCH_MAX_PAGES=5
+      # 可选：单个搜索源的总死线（毫秒，3s-60s，默认 10000）
+      # - SEARCH_SOURCE_TIMEOUT_MS=10000
+      # 可选：代理请求 UA（豆瓣防盗链等场景）
+      # - USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36
+      # 可选：影视榜单推荐源（60s API）实例地址
+      # - 60S_API_BASE=https://60s.crystelf.top
