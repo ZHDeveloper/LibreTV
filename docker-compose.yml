@@ -23,7 +23,7 @@ services:
       # 必填：访问密码（默认设为 libretv，可在同目录 .env 文件或此处修改）
       - PASSWORD=libretv
       # 预置数据源订阅：LibreTV-SourceList JSON（含 16 个点播源 + 6 个直播源），客户端首次打开自动导入
-      - DEFAULT_SUBSCRIPTIONS=["https://api.npoint.io/46516b5794ecf16a1eda"]
+      - DEFAULT_SUBSCRIPTIONS=["https://raw.githubusercontent.com/ZHDeveloper/LibreTV/main/libretv-sources.json"]
       # 可选：会话/代理签名密钥（多实例部署建议显式设置：openssl rand -hex 32）
       # - PROXY_SECRET=your_32_bytes_random_hex_string
       # 可选：Cookie Secure 策略覆盖（true=强制开启 / false=强制关闭；不设置时按请求协议自动推导，HTTP 部署无需配置）
