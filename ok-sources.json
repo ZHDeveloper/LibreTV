@@ -14,7 +14,7 @@
     },
     {
       "key": "w1_MDrive",
-      "name": "[饭] 网盘配置",
+      "name": "网盘配置",
       "type": 3,
       "api": "csp_MyDriveGuard",
       "changeable": 0,
@@ -29,7 +29,7 @@
     },
     {
       "key": "w1_玩偶",
-      "name": "[饭] 玩偶4K",
+      "name": "玩偶4K",
       "type": 3,
       "api": "csp_WoGGGuard",
       "timeout": 30,
@@ -42,7 +42,7 @@
     },
     {
       "key": "w1_YGP",
-      "name": "[饭] 预告片",
+      "name": "预告片",
       "type": 3,
       "api": "csp_YGPGuard",
       "searchable": 0,
@@ -51,7 +51,7 @@
     },
     {
       "key": "w1_MTV1",
-      "name": "[饭] 易听音乐",
+      "name": "易听音乐",
       "type": 3,
       "api": "csp_MusicGuard",
       "style": {
@@ -65,7 +65,7 @@
     },
     {
       "key": "w1_seed",
-      "name": "[饭] 聚剧四盘",
+      "name": "聚剧四盘",
       "type": 3,
       "api": "csp_SeedhubGuard",
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
@@ -76,7 +76,7 @@
     },
     {
       "key": "w1_光影",
-      "name": "[饭] 光影",
+      "name": "光影",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -86,7 +86,7 @@
     },
     {
       "key": "w1_厂长",
-      "name": "[饭] 厂长",
+      "name": "厂长",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -97,7 +97,7 @@
     },
     {
       "key": "w1_海绵",
-      "name": "[饭] 海绵",
+      "name": "海绵",
       "type": 3,
       "api": "csp_HmysGuard",
       "timeout": 10,
@@ -108,7 +108,7 @@
     },
     {
       "key": "w1_瓜子",
-      "name": "[饭] 瓜子",
+      "name": "瓜子",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -118,7 +118,7 @@
     },
     {
       "key": "w1_比特",
-      "name": "[饭] 比特",
+      "name": "比特",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -128,7 +128,7 @@
     },
     {
       "key": "w1_糯米",
-      "name": "[饭] 糯米",
+      "name": "糯米",
       "type": 3,
       "api": "csp_NmyswvGuard",
       "timeout": 15,
@@ -138,7 +138,7 @@
     },
     {
       "key": "w1_文采",
-      "name": "[饭] 文采",
+      "name": "文采",
       "type": 3,
       "api": "csp_JpysGuard",
       "timeout": 10,
@@ -149,7 +149,7 @@
     },
     {
       "key": "w1_奶酪",
-      "name": "[饭] 奶酪",
+      "name": "奶酪",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -159,7 +159,7 @@
     },
     {
       "key": "w1_热播",
-      "name": "[饭] 热播",
+      "name": "热播",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -170,7 +170,7 @@
     },
     {
       "key": "w1_风云",
-      "name": "[饭] 风云",
+      "name": "风云",
       "type": 3,
       "api": "csp_FyGuard",
       "ext": {
@@ -183,7 +183,7 @@
     },
     {
       "key": "w1_视界",
-      "name": "[饭] 茉莉",
+      "name": "茉莉",
       "type": 3,
       "api": "csp_App99Guard",
       "timeout": 10,
@@ -194,7 +194,7 @@
     },
     {
       "key": "w1_剧圈",
-      "name": "[饭] 剧圈",
+      "name": "剧圈",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -205,7 +205,7 @@
     },
     {
       "key": "w1_荐片",
-      "name": "[饭] 荐片",
+      "name": "荐片",
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
@@ -215,7 +215,7 @@
     },
     {
       "key": "w1_奥特",
-      "name": "[饭] 奥特",
+      "name": "奥特",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -225,7 +225,7 @@
     },
     {
       "key": "w1_新6V",
-      "name": "[饭] 新6V磁力",
+      "name": "新6V磁力",
       "type": 3,
       "api": "csp_SixVGuard",
       "timeout": 10,
@@ -236,7 +236,7 @@
     },
     {
       "key": "w1_AiDj",
-      "name": "[饭] AI剧弹幕",
+      "name": "AI剧弹幕",
       "type": 3,
       "api": "csp_AiDjGuard",
       "ext": {
@@ -251,7 +251,7 @@
     },
     {
       "key": "w1_Dm84",
-      "name": "[饭] 巴士动漫",
+      "name": "巴士动漫",
       "type": 3,
       "api": "csp_Dm84Guard",
       "timeout": 10,
@@ -261,7 +261,7 @@
     },
     {
       "key": "w1_看球",
-      "name": "[饭] 八八看球",
+      "name": "八八看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "timeout": 10,
@@ -273,7 +273,7 @@
     },
     {
       "key": "w1_多多",
-      "name": "[饭] 多多回放",
+      "name": "多多回放",
       "type": 3,
       "api": "csp_DoubaoGuard",
       "searchable": 0,
@@ -285,7 +285,7 @@
     },
     {
       "key": "w1_吃瓜",
-      "name": "[饭] 吃瓜看球",
+      "name": "吃瓜看球",
       "type": 3,
       "api": "csp_LiveGzGuard",
       "searchable": 0,
@@ -297,7 +297,7 @@
     },
     {
       "key": "w1_alllive",
-      "name": "[饭] 一直播直播",
+      "name": "一直播直播",
       "type": 3,
       "api": "csp_AllliveGuard",
       "style": {
@@ -313,7 +313,7 @@
     },
     {
       "key": "w1_MTV",
-      "name": "[饭] 明星MV",
+      "name": "明星MV",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -329,7 +329,7 @@
     },
     {
       "key": "w1_有声小说",
-      "name": "[饭] 有声小说",
+      "name": "有声小说",
       "type": 3,
       "api": "csp_YueTingGuard",
       "style": {
@@ -342,7 +342,7 @@
     },
     {
       "key": "w1_Aid",
-      "name": "[饭] 急救教学",
+      "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAidGuard",
       "searchable": 0,
@@ -355,7 +355,7 @@
     },
     {
       "key": "w1_虎牙js",
-      "name": "[饭] 虎牙直播",
+      "name": "虎牙直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
@@ -371,7 +371,7 @@
     },
     {
       "key": "w1_斗鱼js",
-      "name": "[饭] 斗鱼直播",
+      "name": "斗鱼直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
@@ -387,7 +387,7 @@
     },
     {
       "key": "w1_ZPan",
-      "name": "[饭] 盘搜四盘",
+      "name": "盘搜四盘",
       "type": 3,
       "api": "csp_S_zpsGuard",
       "searchable": 1,
@@ -403,7 +403,7 @@
     },
     {
       "key": "w1_JPan",
-      "name": "[饭] 易搜四盘",
+      "name": "易搜四盘",
       "type": 3,
       "api": "csp_S_zpsGuard",
       "searchable": 1,
@@ -419,7 +419,7 @@
     },
     {
       "key": "w1_YpanSo",
-      "name": "[饭] 盘她夸父",
+      "name": "盘她夸父",
       "type": 3,
       "api": "csp_YpanSoGuard",
       "searchable": 1,
@@ -431,7 +431,7 @@
     },
     {
       "key": "w1_BpanSo",
-      "name": "[饭] 盘他嘟嘟",
+      "name": "盘他嘟嘟",
       "type": 3,
       "api": "csp_BpanSoGuard",
       "searchable": 1,
@@ -443,7 +443,7 @@
     },
     {
       "key": "w1_抠搜",
-      "name": "[饭] 抠抠搜搜",
+      "name": "抠抠搜搜",
       "type": 3,
       "api": "csp_KkSsGuard",
       "searchable": 1,
@@ -455,7 +455,7 @@
     },
     {
       "key": "w1_UC",
-      "name": "[饭] 优汐搜搜",
+      "name": "优汐搜搜",
       "type": 3,
       "api": "csp_UuSsGuard",
       "searchable": 1,
@@ -467,7 +467,7 @@
     },
     {
       "key": "w1_Bili",
-      "name": "[饭] B站合集",
+      "name": "B站合集",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -483,7 +483,7 @@
     },
     {
       "key": "w1_Biliych",
-      "name": "[饭] B站演唱会",
+      "name": "B站演唱会",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -499,7 +499,7 @@
     },
     {
       "key": "w1_dr_兔小贝",
-      "name": "[饭] 儿童启蒙",
+      "name": "儿童启蒙",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -513,7 +513,7 @@
     },
     {
       "key": "w1_少儿教育",
-      "name": "[饭] 少儿教育",
+      "name": "少儿教育",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -529,7 +529,7 @@
     },
     {
       "key": "w1_小学课堂",
-      "name": "[饭] 小学课堂",
+      "name": "小学课堂",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -545,7 +545,7 @@
     },
     {
       "key": "w1_初中课堂",
-      "name": "[饭] 初中课堂",
+      "name": "初中课堂",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -561,7 +561,7 @@
     },
     {
       "key": "w1_高中教育",
-      "name": "[饭] 高中课堂",
+      "name": "高中课堂",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -577,7 +577,7 @@
     },
     {
       "key": "w1_push_agent",
-      "name": "[饭] 手机推送",
+      "name": "手机推送",
       "type": 3,
       "api": "csp_PushGuard",
       "searchable": 0,
