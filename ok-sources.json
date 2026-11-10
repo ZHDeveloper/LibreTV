@@ -2994,7 +2994,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_快映fox",
@@ -3005,7 +3005,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.pjb777.top/ky4kbgq7b273.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_布布",
@@ -3023,7 +3023,7 @@
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_马猴影视",
@@ -3040,7 +3040,7 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_华谊",
@@ -3061,7 +3061,7 @@
         "version": "6.0.0.1",
         "decrypt": "0"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_蓝鸟",
@@ -3077,7 +3077,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_王子",
@@ -3091,14 +3091,14 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_三六零",
       "name": "三六零视频",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_搬运",
@@ -3109,7 +3109,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_小丑",
@@ -3125,7 +3125,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_爱盼",
@@ -3136,7 +3136,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_即刻",
@@ -3150,7 +3150,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_卡卡",
@@ -3164,7 +3164,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_红果短剧",
@@ -3172,7 +3172,7 @@
       "type": 3,
       "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_七猫短剧",
@@ -3180,7 +3180,7 @@
       "type": 3,
       "api": "csp_ShortQimao",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_河马短剧",
@@ -3188,7 +3188,7 @@
       "type": 3,
       "api": "csp_ShortHema",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_围观短剧",
@@ -3196,7 +3196,7 @@
       "type": 3,
       "api": "csp_ShortWeiguan",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_好看短剧",
@@ -3204,7 +3204,7 @@
       "type": 3,
       "api": "csp_ShortHaokan",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_枫叶影视",
@@ -3212,7 +3212,7 @@
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_1905",
@@ -3222,7 +3222,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_番社动漫",
@@ -3250,28 +3250,28 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_赏月",
       "name": "赏月动漫",
       "type": 3,
       "api": "csp_AnimeTsukimi",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_吉里动漫",
       "name": "吉里动漫",
       "type": 3,
       "api": "csp_AnimeGiri",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_花子动漫",
       "name": "花子动漫",
       "type": 3,
       "api": "csp_AnimeHuazi",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_New6v",
@@ -3282,7 +3282,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_美剧迷",
@@ -3292,7 +3292,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_电影港",
@@ -3302,7 +3302,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_阿里云盘",
@@ -3316,7 +3316,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_夸克网盘",
@@ -3330,7 +3330,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_UC网盘",
@@ -3344,7 +3344,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_百度网盘",
@@ -3358,7 +3358,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_迅雷云盘",
@@ -3372,7 +3372,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_光鸭云盘",
@@ -3386,7 +3386,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_天翼云盘",
@@ -3400,7 +3400,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_123云盘",
@@ -3414,7 +3414,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_觅盘",
@@ -3425,7 +3425,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_盘搜",
@@ -3436,7 +3436,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_酷乐",
@@ -3447,7 +3447,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_百酷",
@@ -3458,7 +3458,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_88看球",
@@ -3471,7 +3471,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_呦呦DJ",
@@ -3484,7 +3484,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_蜻蜓FM",
@@ -3497,7 +3497,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_听友听书",
@@ -3510,7 +3510,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_世界听书",
@@ -3520,7 +3520,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_堇夏听书",
@@ -3534,7 +3534,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_博看听书",
@@ -3547,7 +3547,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_戏曲多多",
@@ -3560,7 +3560,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_兔小贝",
@@ -3574,7 +3574,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_贝乐虎",
@@ -3588,7 +3588,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "key": "w7_养生堂",
@@ -3602,7 +3602,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/spiders/xiaosa-9f722765.bin;md5;9f7227651023177d2a036830180add15"
     },
     {
       "name": "短剧",
