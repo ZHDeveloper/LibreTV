@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/fantaiying.jar;md5;9d5f341aa5f3353b50cc3bc16b4f3e8a",
+  "spider": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/fantaiying.png;md5;9d5f341aa5f3353b50cc3bc16b4f3e8a",
   "wallpaper": "https://bing.img.run/rand_1366x768.php",
   "sites": [
     {
@@ -595,7 +595,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_HJZhenCai",
@@ -614,7 +614,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_GUOI·短剧",
@@ -630,7 +630,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_咖啡·短剧",
@@ -645,7 +645,7 @@
       "ext": {
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_AppV7_Fz",
@@ -656,7 +656,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AppV7Fz",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_AppV7_Zjdr",
@@ -667,7 +667,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_AppV7_Dsx",
@@ -678,7 +678,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_mtq",
@@ -691,7 +691,7 @@
       "ext": {
         "hide_unplayable": false
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_mino",
@@ -705,7 +705,7 @@
         "rotate_device": 1,
         "auto_fallback": 1
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_JuXiaFan",
@@ -720,7 +720,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_AppRJ",
@@ -735,7 +735,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_KanJuMe",
@@ -749,7 +749,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_dyx",
@@ -759,7 +759,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_dongpian",
@@ -769,7 +769,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_JpysWorld",
@@ -784,7 +784,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_Gulu",
@@ -798,7 +798,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_Wwys",
@@ -813,7 +813,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_华数",
@@ -826,7 +826,7 @@
       "ext": {
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_YunDuo",
@@ -846,7 +846,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_xifan",
@@ -860,7 +860,7 @@
         "email": "",
         "password": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_共和国",
@@ -870,7 +870,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_Ciyuancheng",
@@ -886,7 +886,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_AppXY",
@@ -902,7 +902,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_直播",
@@ -922,7 +922,7 @@
       "ext": {
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_瓜子体育",
@@ -943,7 +943,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_Kanqiu",
@@ -964,7 +964,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_Bili",
@@ -984,7 +984,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_半日99",
@@ -1002,7 +1002,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_AppDramaPingguo",
@@ -1026,7 +1026,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_tingshijie",
@@ -1036,7 +1036,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_KuKuMusic",
@@ -1055,7 +1055,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_南瓜视频APP",
@@ -1081,7 +1081,7 @@
         "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfgFYt5LTHeDslGbyQb836pa/f9FaJa20ZvU3rq2TaT4QxbhzMz0QlXhxyJA78VEooiFzNsOKJDFZAvAYGHid1BvTkqEmwaUD38WN/gOXWPevX20X13kbKlKctbTzqB6CsKLdxYyjB4awtF6o66cVFwLAjPmeePSxiSIoMKaO8jZakhHlPMhIgztAgd09eX+bSM6pve35k9CV5X2GSey7Dtth4DQz/NZVc8HGb79uhyrwH1h6IV3BKgOoqcpsHUcggoV1bJ3IIT0+WUMM8S9Yo2dh9T2EXc+gmIH0UAIxwKxmO1jTNzTDR7BvOCMnJQs5DIUx409BPdLdg4zg0SbmQIDAQAB",
         "privateKey": "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCN9LrnN2+FFW9oTw5ySIQxClbNZyPQyXyueQmsJw9PELWamIvyrVDhsi2862Da83nXRwjzcBsuT3fSq4BETKfRpsOrI3xprN6HyB+aALoYJbdMt5p3liUeyaw9WNxGZ2VhJ+st6ThGNikKRinFgPkOKaocZgefK7MuKI/EJKrj/FFB1WUE1I1/TT5bkIFMmjc8dszKyqxNdDaRgNTNP1Xou0s/tRCgKpmc503wf2h46F94YK6tpbHvYKouCCKps5ieUu+eWsXZmLRfiM0iZQcD0K5wcbrMvWcS/KmElkWPsCOwErpd/EDgeIbVKtsoHPewG8fOta75iCcb8/J56VbZAgMBAAECggEBAI2+8WIvWIvq+3OMfUBgaJ8PU92GP50blAQjmCTuW7r3VF8qM5P+u+ShpkoePnhi5iawJ5/tMTbs4xjZZxrL8EbH3lnk9TYQB6RNkECWuTujbYSNURBYPHihp/sZ39ntJK3+zjbpyedR7Wj05oDwZ8BcmiABQVsOp7xPhD623m0G3wSYtv1bIeCc+vP8pc1kauCPXl5ZyNCUN6XZKH1mvRkGd+VP9hCYr5LOsPVvn3JM8yF5HUJbxltzZVU/m9WcN9D3lcJ9pqpKBd99G1l5zsN+U23+4VvwX8Qhj4ZkNlMCaNndj+6PvhPGMp4+cCpt94I3xh/OqjdrUAd6jnZpioECgYEA709jQ+yFCobRPKzT/PT6KsqVIJJn0FTMXVc1VP5Sn3t5NTQ+iLzOxQRcO1aTNFVgNKhIgsVnVlGh+1Oa2Zor3vXr1eQBjHCZ2zOH+2QdZbRk4GXoOsZ0d203H189SBCTVj20Zd8mL5csBvihIsMjKZ6R62k/mEyOLD+IVuh+axMCgYEAl9sxrVbU1bvGYgHkGWV7BkqYsezOXR65F3eRq8jbNV0YdYN7rnFCStllIJsMCzJBSs2rBD3lcY6/Tk2ThlFIVHVEhgjjRAUIrLHQBJrFKCSusDMGX39Ekk5DZa+5JNak5J7Ikon6klYtDa1G8PFQTJDKTDfQLm/NgryVFS4Np+MCgYEAljLAfcg8NEAroSZkIvbq8OKXOItLRxGB9u+eVIsO9nP7vi3dNdsy96rl7IRI/ea77DDW2eTmF+JChUiS/xJpiJXXADcL1cZyeobcSScr4EKZsdGkMQeP38kXeMRA5TMqFk3CJNIq2GHMS0/Pas8JCb0xnow/UupxrUnu24UumysCgYBKjYuLDVk6gZC45zLEISVQBmmG2LrLztySH9q9msO8JDNw5hdfoi0osChM5LH6ATc68VQnpfeyU6GqYL2vsNIw3M3CfDSPXWVP25BD4nQu7CtzR+m2ErZomdHO54GfC14y+51/DAyfsX02/L4aZm7E2ETpPHGRisQ7jjgnCNAdfwKBgQDSVzfLvsDi2UqbTjyEIeVYPfgm3Owo0fh79rKvinAainQHabVkAezx+RwiJdWeor/08WiyDjFZC86hJOH8gSMLZ2yJw6EVgHqLTvJ+nkYbk0LzvS2gS2h9lDnqOkkKGZBc5l8k/ScCytcDz3WUFEC2TV2CXDj89H14699s1SjpSw=="
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_YXZB",
@@ -1098,7 +1098,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_AppTd",
@@ -1112,7 +1112,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w3_FirstAid",
@@ -1129,7 +1129,7 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.jar;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaomi.png;md5;3130dcf9527d5aeaa37f4eb30f08ca26"
     },
     {
       "key": "w4_config",
@@ -1137,7 +1137,7 @@
       "type": 3,
       "api": "csp_Config",
       "playerType": 2,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_csp_FeiMaoUC",
@@ -1156,7 +1156,7 @@
         },
         "url_key": "FeiMaoUC"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_csp_Duopan",
@@ -1180,7 +1180,7 @@
         },
         "url_key": "Duopan2"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_潮流",
@@ -1188,7 +1188,7 @@
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_肥猫",
@@ -1196,7 +1196,7 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt|oW5UxZ5kWVr1DI69",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_干饭",
@@ -1214,7 +1214,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_行动",
@@ -1232,7 +1232,7 @@
         "version": "6.0.0.1",
         "decrypt": "1"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_再来",
@@ -1250,14 +1250,14 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_韩圈",
       "name": "[猫] 韩圈",
       "type": 3,
       "api": "csp_Hxq",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_一起",
@@ -1267,7 +1267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_蔬菜",
@@ -1275,7 +1275,7 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_csp_Jpys",
@@ -1283,14 +1283,14 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_csp_SP360",
       "name": "[猫] 360官源",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_csp_Bili",
@@ -1306,7 +1306,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_csp_Dm84",
@@ -1315,7 +1315,7 @@
       "playerType": "2",
       "api": "csp_Dm84",
       "ext": "https://dm84.net",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_酷狗",
@@ -1331,7 +1331,7 @@
           }
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w4_看球",
@@ -1345,7 +1345,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.jar;md5;6a396033ae45efee57ba789f91d7123e"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.png;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "w5_Wexconfig",
@@ -1358,7 +1358,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MyPan",
@@ -1371,7 +1371,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewGuanYing",
@@ -1381,7 +1381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiQwMkv",
@@ -1391,7 +1391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewPianKu",
@@ -1401,7 +1401,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewHuBan",
@@ -1411,7 +1411,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewMuOu",
@@ -1421,7 +1421,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewDuoDuo",
@@ -1431,7 +1431,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewKuaiYing",
@@ -1441,7 +1441,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewShanDian",
@@ -1451,7 +1451,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewJuTou",
@@ -1461,7 +1461,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewLibvio",
@@ -1471,7 +1471,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_原盘",
@@ -1481,7 +1481,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_蜗牛",
@@ -1491,7 +1491,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiPan1Me",
@@ -1501,7 +1501,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AiNewYiDong4K",
@@ -1511,7 +1511,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_WexHanXiaoQuan",
@@ -1521,7 +1521,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_WexAiDuBoKu",
@@ -1531,7 +1531,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_WexAiWenCai",
@@ -1541,7 +1541,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_WexFengYe4K",
@@ -1551,7 +1551,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_賤賤",
@@ -1561,7 +1561,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 粉猪追剧",
@@ -1575,7 +1575,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 咸鱼",
@@ -1589,7 +1589,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 小柚子",
@@ -1603,7 +1603,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 小柠檬",
@@ -1617,7 +1617,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 蒙太奇",
@@ -1631,7 +1631,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 零零七影视",
@@ -1645,7 +1645,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 小柿子",
@@ -1659,7 +1659,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AppV7 | 小黄人",
@@ -1673,7 +1673,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_WexAiYiYs",
@@ -1683,7 +1683,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_WexAiBoBo",
@@ -1693,7 +1693,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_WexAiIkanBot",
@@ -1703,7 +1703,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_LiveAiBiLi",
@@ -1712,7 +1712,7 @@
       "api": "csp_LiveAiBiLiGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ManJuAiHongGuo",
@@ -1722,7 +1722,7 @@
       "api": "csp_ManJuAiHongGuoGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ManJuAiHuoLong",
@@ -1732,7 +1732,7 @@
       "api": "csp_ManJuAiHuoLongGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ManJuAiQiMao",
@@ -1742,7 +1742,7 @@
       "api": "csp_ManJuAiQiMaoGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ManJuAiXiFan",
@@ -1752,7 +1752,7 @@
       "api": "csp_ManJuAiXiFanGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ManJuAiHeMa",
@@ -1762,7 +1762,7 @@
       "api": "csp_ManJuAiHeMaGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_DuanJuAiHaoKan",
@@ -1772,7 +1772,7 @@
       "api": "csp_DuanJuAiHaoKanGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_DuanJuAiQiMiao",
@@ -1782,7 +1782,7 @@
       "api": "csp_DuanJuAiQiMiaoGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_DuanJuAiXingYa",
@@ -1792,7 +1792,7 @@
       "api": "csp_DuanJuAiXingYaGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_DuanJuAiWeiGuan",
@@ -1802,7 +1802,7 @@
       "api": "csp_DuanJuAiWeiGuanGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AnimeAiGongHeGuo",
@@ -1811,7 +1811,7 @@
       "api": "csp_AnimeAiGongHeGuoGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AnimeAiMoDu",
@@ -1820,7 +1820,7 @@
       "api": "csp_AnimeAiMoDuGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_BookHongGuo",
@@ -1829,7 +1829,7 @@
       "api": "csp_BookHongGuoGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_BookHeMa",
@@ -1838,7 +1838,7 @@
       "api": "csp_BookHeMaGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_BookAiYueTing",
@@ -1848,7 +1848,7 @@
       "searchable": 1,
       "changeable": 0,
       "timeout": 120,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_BookAi23TingShu",
@@ -1857,7 +1857,7 @@
       "api": "csp_BookAi23TingShuGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ChildrenAiBaoBao",
@@ -1870,7 +1870,7 @@
         "type": "rect",
         "ratio": 2
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ChildrenAiBeiWa",
@@ -1883,7 +1883,7 @@
         "type": "rect",
         "ratio": 2
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_ChildrenAiTuTu",
@@ -1896,7 +1896,7 @@
         "type": "rect",
         "ratio": 2
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MusicAiTangDou",
@@ -1909,7 +1909,7 @@
         "type": "rect",
         "ratio": 2
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MusicAiLiYuan",
@@ -1922,7 +1922,7 @@
         "type": "rect",
         "ratio": 2
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MusicAiQingTing",
@@ -1931,7 +1931,7 @@
       "api": "csp_MusicAiQingTingGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MusicAiIKtv",
@@ -1940,7 +1940,7 @@
       "api": "csp_MusicAiIKtvGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MusicAiKuWoa",
@@ -1949,7 +1949,7 @@
       "api": "csp_MusicAiKuWoaGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MusicAiKuWo",
@@ -1958,7 +1958,7 @@
       "api": "csp_MusicAiKuWoGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_MusicAiLunHui",
@@ -1967,7 +1967,7 @@
       "api": "csp_MusicAiLunHuiGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SportAiFeiQiu",
@@ -1979,7 +1979,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SportAiKanQiuTong",
@@ -1991,7 +1991,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SportAiKanqiu",
@@ -2000,7 +2000,7 @@
       "api": "csp_SportAiKanqiuGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SportAiKaFei",
@@ -2012,7 +2012,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SportAiWwe",
@@ -2024,7 +2024,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_FakeAi115Share",
@@ -2037,7 +2037,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_Emby",
@@ -2047,7 +2047,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_AList",
@@ -2056,7 +2056,7 @@
       "api": "csp_AListGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_webdav",
@@ -2065,7 +2065,7 @@
       "api": "csp_WebDAVGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_biliys",
@@ -2075,7 +2075,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_bilixiqu",
@@ -2093,7 +2093,7 @@
       "ext": {
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_biliych",
@@ -2111,7 +2111,7 @@
       "ext": {
         "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SoAiHaiYin",
@@ -2120,7 +2120,7 @@
       "api": "csp_SoAiHaiYinGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SoAiPanSoo",
@@ -2129,7 +2129,7 @@
       "api": "csp_SoAiPanSooGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SoAiAiPanSo",
@@ -2138,7 +2138,7 @@
       "api": "csp_SoAiAiPanSoGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SoKaKa",
@@ -2147,7 +2147,7 @@
       "api": "csp_SoKaKaGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w5_SoAiQuanPanGuard",
@@ -2156,7 +2156,7 @@
       "api": "csp_SoAiQuanPanGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.jar;md5;53e039fb19875d5cfec02a0910399ffd"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/wangerxiao.png;md5;53e039fb19875d5cfec02a0910399ffd"
     },
     {
       "key": "w6_Douban",
@@ -2173,7 +2173,7 @@
           "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
         }
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_YGP",
@@ -2183,14 +2183,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_FishConfig",
       "name": "[鱼] 设置中心",
       "type": 3,
       "api": "csp_FishConfig",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_ALLLive",
@@ -2198,7 +2198,7 @@
       "type": 3,
       "api": "csp_ALLLive",
       "searchable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_bili",
@@ -2210,7 +2210,7 @@
       "ext": {
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_FishPs",
@@ -2219,7 +2219,7 @@
       "api": "csp_FishPs",
       "searchable": 1,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_bl",
@@ -2230,7 +2230,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "Acf4n+FgSJlps29HFqyt+ECG19M+iLto9fxzwikME3YOnRFfaIWR3C9CZF+/o2jh4T6D4bOxYn8j775k1TLOsSHsG7tlKBqeENs8VhcKgZS5u7Gb8/LXYDutl7a21jsXLw==",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_jz",
@@ -2241,7 +2241,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AUeoWDxT/Sza6llGoZlPCelc2ZgSZNx8QBoJAONichQm4mIf8nslnxOIU1wrq2vvzWouK156R9sXK/CRGs6G6fc=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_hy",
@@ -2252,7 +2252,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "Ae8DpdkJGH5s9XIrvlLd8DvpiYdkSSaoIDmmvofda4Gpr9yX8k0a4w1wNmnu4CZ4Nnh03XkYIwooJ+psbf6P8ZY=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_FourK",
@@ -2263,7 +2263,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AV3cDzESDsTIWJ1e0GZQUmOQKfNDMpFhWqSa4cvJKZlVZDKPOBzRbNq+YsDIeVJfxJIlcvy9/9MMJLQR9Yn4P+ABIUU4LXEL+WXhRFcPEDBpGlxkMDqSvKpFJvmPoKC/IA==",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_SanJiaoZhou",
@@ -2274,7 +2274,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "AYw+57aVirMpHulq+pwyxEX1UGkmWBETcX32Yp6ZkkvTAnu06xitsJuZdymTwZ70YgSiX+Ga4XisFPKK2Pv4ERJ/y0iGIy9FkpAAVFLF8ltrlb/FEg6CdBcfjWgMUXsibWacZGVzOWczRslQaFUHS2M=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Luck",
@@ -2285,7 +2285,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AU/L2JHZ0SsU94LbxPA3emscXG7f5FFdKYn8MSdt/5Uktri/nmW4Z3nNYavRogzuAlOkPfPVG27z4OAdO+fyFhc=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_KaiFan",
@@ -2296,7 +2296,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AfLGR2SW/7tjQA3K8Qgg5u7AG1NNWsCVAVxfMv/V44kP5aqzon5weT9IvX2w2KtBeMpAxc+Y0yRLN0eXf6oiuLw=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_XieHui",
@@ -2307,7 +2307,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AWevGJ+A/nEjquOh7v58lbo8oaOgHdJkEu7/lzGApb2ngqWSO16XNPqrmqkozIxiLHvjDaaxs61fWZUIYBZBGgQ=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_shangtou",
@@ -2318,7 +2318,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "Ab723PUSGcnjpXT6567J5El7ZP+7lqBKJnQzkeqdAaVU29VedG35Y36vvAZWXOyL7tUL38RB0IWmvwZj4wWtuwyEOmAg2Nbpi1z46QBiBTmY",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_FaDai",
@@ -2329,7 +2329,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AbjGNiFc0jaPCvOXj2edU7/DIRsvVxb1/2tyMFgaoT8L4eZNchAll5NXn7xBXvEwQvvJ55Odg+IugUeNvfYtPT0=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_HuangYou",
@@ -2340,7 +2340,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AVVlrRajtr+i42Q1MBwsMRSoNuckBLnPEocZVkZik+88465w0JZsKWJodTFxYL+RSsAVU8X8lJ4M8E2Xfw0GLYA=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_SuiYuan",
@@ -2351,7 +2351,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AVjYSEtEaHF+eS3NOrCubcE3f755psW6EFCg2THWgHt0uWkH1CXlE/UJ2zqohcEULrn/AlZOVuzN4V4Wt0EY3bY=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_TangPing",
@@ -2362,7 +2362,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AUVdS2Q3l8yS7JhOkMXYE1ntTJ/61k8MzQmaQMqSZBbUKDBy/udxVLxvXhNDvifvbkVTEawL3m2p9hhwbTibxnA=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_LaiChuang",
@@ -2373,7 +2373,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AVlJ4J+D/3DMzdKAQnig/9ckDSQU7H+PyPyOE/q+m7eGkaZ9YjDkVXgq17TjYCHuvJa0UinsvgwPiAVd51fKuA0=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_bandeng",
@@ -2384,7 +2384,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ASH3HkV5cxNhNR9+uQe0sWYxUWHzEywHT3rcYOx+wsK4Jx+sBd0qMO9kFic1Rc1osAMsAsTlMgabd1Ky2kmzQ/Y=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_mandian",
@@ -2395,7 +2395,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AU08qHcswQQ9GUNUYMdLgyq8HzPCy1gUxku0nrQgOwfSJrT0LgwdrXoWPVK+x4n+QQ8KbuVPdzA5/U2YL7fQmH8=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_ZhiWo",
@@ -2406,7 +2406,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AX1Vvf8Pdib7pGaiG52YtJfoH7J54wUt+/pfCo7QJrhIKMK6XXxVbbJG3pw3yHdOUVcBrTyo1EmM8M91pY30AUE=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_xiaozuo",
@@ -2417,7 +2417,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o//eKOpDWbngYFUGIJGTa56hr3Hk0=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_KanJu",
@@ -2432,7 +2432,7 @@
         "site": "https://kanju.ai",
         "playname": "ly"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_嗑剧",
@@ -2443,7 +2443,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "Ab6RU4ow2BTC3y169gXHkoGyOzagKI89ksf5hxcm0/J5a7/pusSapfK8Oy6MtmlqAq8DsECmgbQ377MzwhHsU61D51ptVLqXXNu87y1TOl17",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_凝光",
@@ -2454,7 +2454,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AbHckdJkP3IQGfQAetQhutxB3VjOrW67VMoOo8mAdc9grkAgbVv7bUgWbHKHHabksz8nJklfQrFKo56OYXkhQ936PGDo/33ZU4cnkGGALgUlbfxoJoT/TJ/KZwRlYHiajg==",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_素笺",
@@ -2465,7 +2465,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "Aaf7w5/rzYE9yZfGXQS8eAKVq3W9pLaxvlvi6ZGZLpR8O3YSm7sXFS22QD04sh5rKbTiwymnUVmJuU564xlueIWO8sp8Q1lhlLJThJy5Yert",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_长泽",
@@ -2473,7 +2473,7 @@
       "type": 3,
       "api": "csp_App88",
       "ext": "AbUqYzi9KxmcqEBrph2PStNUDPxq/XlzxDHJ/Ho29gXr8NgMOEJGFKBsrdYb5xNb+w+Xaj3203DI9YWo5wBv6zGULMNZneW1yESyfC1/S1BM",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_云岫",
@@ -2484,7 +2484,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "Af9dBxsQCjGtIKQ47cJEAnzHtmsGI04C7DCRpNBZk7hshaMWsb76puB4aGapQk4JgYpBV2BKnAQ6GRcUI+/vzYduXc8ItUUvkHR/+LR3Y+NT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_zhiqiu",
@@ -2493,7 +2493,7 @@
       "api": "csp_zhiqiu",
       "searchable": 1,
       "ext": "ATuDzsbtXNA1mpnRWIpcUB8B2+hY3LMP/3Z1xXurADboE8cAKUOjUN6TXimsApauJg/X7yLotzgNXhCsjAn5wuQ=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Kan360",
@@ -2508,7 +2508,7 @@
           "https://jx.xmflv.com/?url="
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_竹隐",
@@ -2519,7 +2519,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "ASOaI+0HH0pDfWQ9VwPhMaOaO+WarJ6umTa/qwrJ+cbO4qRPAyjfTVh51M3iYZq/nEN+givTp7FLvjhWgQh8WCdjm82k8bbHm80C9j41tlvo",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_玉阶",
@@ -2530,7 +2530,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AR1skS0Mq97cRrUjisQHhwxFfgXFonkw2eX4zfToon+DcScGRXGViBnNIsG5DYOtYkAp0CTia3vGvMluKl75/eMH49CGi2ZWYJa1wyldHjNH",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_香篆",
@@ -2541,7 +2541,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AYVQFckfgSMV740pmmoXzEeC6ljk5SNI/vhWnsIgCUWttSOCyil7DK8MLbeYpwWSgUvM0jcGIDuwi43iiO0FSFX1ofrxXH3IU944OtJbNlpMo9hvLoJTJ2RQVjWu3HU58w==",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_兰芷",
@@ -2549,7 +2549,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": "AZd2zeWnJd10mMjpA2gpKlWDq7ggxf6XDxDuTaoinynvJ3eEi1bZPxC2qgkkAiACxISnMdRC37ODaT/tTEd9foyUox+SNWIsGzujicg5VFm7",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_疏影",
@@ -2557,7 +2557,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": "AcWh+ygRkvJAOf11TNsY/RqlWx9GJlpo3j4tzpUl+u3fVki/utnqUPm2SGUaMOiuwO9ab8dc4NOr/Kone+3t4Pvvqo19sUMAcLVWyXq8gKIr",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_枕霜",
@@ -2565,7 +2565,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": "Ae6vu7b7i5h70Oy94HyVp82ZDRF6HrMNdCYNTQ442xkG4kY88mkG1x34awtkrrUdk56x2qehUzy3YCLubZhewqD5a5lQeSsfcnYh8z8+qVVL",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_观澜",
@@ -2573,7 +2573,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": "AVV1qWzQBjKvN7CKup9rpdodlSeTxhlrSJPwshkidi4LdlbDt81YkaxBlOnImlhpaCXFZ3rlaVHkoA57wMFZIEUb0eGUhm8upw9Vw/Qq5sdr",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_孟葭",
@@ -2581,7 +2581,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": "AUGjHXVq+vxRJ+qgE4Hsi3sV94g5u8cFfUgjY4diiOxY3cUhBhbqUlPOKbfo6yzjh2BrmyNZGnV3r5j/VfAvnDP1bmLlrwPQ1H2o6cF9VjrH",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_南枝",
@@ -2589,7 +2589,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": "AUj9LzI2v0nALIaWIMvrw0mqpqAfYqjLEaEdBg2Kpjpynjba5tcMRsocodhKWXuxaxWXNQhmHVm/5ch0t87+Ck3kUcf8gS3HStDFKx/zWH77",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_沐辞",
@@ -2597,7 +2597,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": "AYdXH70UMM8plqsXPmZuN9zEJQV/2vpn2nM5OAeVwvV966SO86n0qc/65IvyNOY7I8FscuN2i4tnXSoa2eVVhCbvIzsK+OAWQcMwpKHy1zZg",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_KZN",
@@ -2606,7 +2606,7 @@
       "api": "csp_KZN",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_SeedHub",
@@ -2621,7 +2621,7 @@
           "https://hubdog.cc"
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_PanWebShare123",
@@ -2643,7 +2643,7 @@
         ],
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_PanWebShareGuangYa",
@@ -2664,7 +2664,7 @@
         ],
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Yidong4K",
@@ -2675,7 +2675,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Fishshayang",
@@ -2689,7 +2689,7 @@
           "http://38.76.197.172:12521"
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Fishgege",
@@ -2704,7 +2704,7 @@
           "https://woog.430520.xyz"
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_ShuangXing",
@@ -2718,7 +2718,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_DianYingYunJi",
@@ -2727,7 +2727,7 @@
       "api": "csp_DianYingYunJi",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_VideoX",
@@ -2737,7 +2737,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_DJHub",
@@ -2749,7 +2749,7 @@
       "genre": "shortdrama",
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_dadun",
@@ -2760,7 +2760,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AfCX4sFyDgfHnSLJWpjt1MhGM5IXEedNZfnttre6SML2iKsHtTs9bImgNSCyhOVdiFfFQEtkTtLKBE1jHKB54K5If+HC5ogqbIKmQp/pC3aY",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_XingHui",
@@ -2772,7 +2772,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": "Add8krwC68v61DP+FKD6Jfku9NAYotb5APLK7YesWQ1matF4zi2Prh/3AY6D3ZeBGuxJg4SEuXY9n/vMa+B4fC0=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_FanShu",
@@ -2783,7 +2783,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "AfcrWiL6kOmzXnbqzxhVVO34r1aA/e0g4grwfsFA8V5EPAVy9WtRO4yVFf3aC5LmzKENIEFO9aA2BMklc+wOUy4=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_XgAnime",
@@ -2793,7 +2793,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Manbo",
@@ -2804,7 +2804,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Gugu",
@@ -2815,7 +2815,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0=",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Jianpian",
@@ -2824,7 +2824,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Xb6v",
@@ -2833,7 +2833,7 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_JSo",
@@ -2846,7 +2846,7 @@
           "https://j-so.com"
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Tiu6",
@@ -2860,7 +2860,7 @@
           "https://www.tiu6.cn"
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Buguyy",
@@ -2870,7 +2870,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_ChuXin",
@@ -2880,7 +2880,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_aiting",
@@ -2890,7 +2890,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Music24bit",
@@ -2908,7 +2908,7 @@
           "薛之谦"
         ]
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_TuXiaoBei",
@@ -2918,7 +2918,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_BeiLeHu",
@@ -2928,7 +2928,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_BiliHeji",
@@ -2945,7 +2945,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "name": "[鱼] 笔璃歌曲",
@@ -2962,7 +2962,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Kanqiu",
@@ -2976,7 +2976,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Sir88",
@@ -2989,7 +2989,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_919TY",
@@ -2999,7 +2999,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_TingBookJinXia",
@@ -3013,7 +3013,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_TingYou",
@@ -3025,7 +3025,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Fishdrive",
@@ -3036,7 +3036,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260715/bf45/fishdrive.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w6_Wallpaper",
@@ -3051,7 +3051,7 @@
         "type": "rect",
         "ratio": 0.56
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.jar;md5;c91563ada7c35b4f33bd81c50c96eab5"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.png;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
       "key": "w7_配置中心",
@@ -3065,7 +3065,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_快映fox",
@@ -3076,7 +3076,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.pjb777.top/ky4kbgq7b273.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_布布",
@@ -3094,7 +3094,7 @@
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_马猴影视",
@@ -3111,7 +3111,7 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_华谊",
@@ -3132,7 +3132,7 @@
         "version": "6.0.0.1",
         "decrypt": "0"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_蓝鸟",
@@ -3148,7 +3148,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_王子",
@@ -3162,14 +3162,14 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_三六零",
       "name": "[潇] 三六零视频",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_种子",
@@ -3187,7 +3187,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_搬运",
@@ -3198,7 +3198,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_小丑",
@@ -3214,7 +3214,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_爱盼",
@@ -3225,7 +3225,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_即刻",
@@ -3239,7 +3239,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_卡卡",
@@ -3253,7 +3253,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_红果短剧",
@@ -3261,7 +3261,7 @@
       "type": 3,
       "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_七猫短剧",
@@ -3269,7 +3269,7 @@
       "type": 3,
       "api": "csp_ShortQimao",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_河马短剧",
@@ -3277,7 +3277,7 @@
       "type": 3,
       "api": "csp_ShortHema",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_围观短剧",
@@ -3285,7 +3285,7 @@
       "type": 3,
       "api": "csp_ShortWeiguan",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_好看短剧",
@@ -3293,7 +3293,7 @@
       "type": 3,
       "api": "csp_ShortHaokan",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_星芽短剧",
@@ -3301,21 +3301,21 @@
       "type": 3,
       "api": "csp_ShortXingya",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_星辰影视",
       "name": "[潇] 星辰影视",
       "type": 3,
       "api": "csp_XingChen",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_飞娱影视",
       "name": "[潇] 飞娱影视",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_枫叶影视",
@@ -3323,7 +3323,7 @@
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_1905",
@@ -3333,7 +3333,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_番社动漫",
@@ -3361,28 +3361,28 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_赏月",
       "name": "[潇] 赏月动漫",
       "type": 3,
       "api": "csp_AnimeTsukimi",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_吉里动漫",
       "name": "[潇] 吉里动漫",
       "type": 3,
       "api": "csp_AnimeGiri",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_花子动漫",
       "name": "[潇] 花子动漫",
       "type": 3,
       "api": "csp_AnimeHuazi",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_New6v",
@@ -3393,7 +3393,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_美剧迷",
@@ -3403,7 +3403,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_电影港",
@@ -3413,7 +3413,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_阿里云盘",
@@ -3427,7 +3427,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_夸克网盘",
@@ -3441,7 +3441,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_UC网盘",
@@ -3455,7 +3455,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_百度网盘",
@@ -3469,7 +3469,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_迅雷云盘",
@@ -3483,7 +3483,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_光鸭云盘",
@@ -3497,7 +3497,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_天翼云盘",
@@ -3511,7 +3511,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_123云盘",
@@ -3525,7 +3525,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_觅盘",
@@ -3536,7 +3536,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_盘搜",
@@ -3547,7 +3547,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_酷乐",
@@ -3558,7 +3558,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_百酷",
@@ -3569,7 +3569,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_趣盘",
@@ -3580,7 +3580,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_88看球",
@@ -3593,7 +3593,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_呦呦DJ",
@@ -3606,7 +3606,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_蜻蜓FM",
@@ -3619,7 +3619,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_听友听书",
@@ -3632,7 +3632,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_世界听书",
@@ -3642,7 +3642,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_堇夏听书",
@@ -3656,7 +3656,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_博看听书",
@@ -3669,7 +3669,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_戏曲多多",
@@ -3682,7 +3682,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_童趣",
@@ -3696,7 +3696,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_兔小贝",
@@ -3710,7 +3710,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_贝乐虎",
@@ -3724,7 +3724,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "key": "w7_养生堂",
@@ -3738,7 +3738,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.jar;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.png;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
       "name": "[嗷] 短剧",
@@ -3750,7 +3750,7 @@
       "changeable": 0,
       "genre": "shortdrama",
       "ext": "Hgdh",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 经典",
@@ -3761,7 +3761,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "Xxxg",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 网盘配置",
@@ -3771,7 +3771,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 资源中心",
@@ -3781,7 +3781,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 秋天",
@@ -3792,7 +3792,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "NewGrV2",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 浮舟",
@@ -3803,7 +3803,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Fz",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 星野",
@@ -3814,7 +3814,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xy",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 织锦",
@@ -3825,7 +3825,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 玄珠",
@@ -3836,7 +3836,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 衔梦",
@@ -3847,7 +3847,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xnm",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 鸣泉",
@@ -3858,7 +3858,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Mtq",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 琳琅",
@@ -3869,7 +3869,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Llq",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 衔石",
@@ -3880,7 +3880,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xsz",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 星海",
@@ -3891,7 +3891,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xhr",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] Sed4K",
@@ -3902,7 +3902,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "SeedHub",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 嗷嗚动漫",
@@ -3912,7 +3912,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 牛来动漫",
@@ -3922,7 +3922,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 快快动漫",
@@ -3932,7 +3932,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 冬瓜动漫",
@@ -3942,7 +3942,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 哔嘀2K",
@@ -3953,7 +3953,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "Bidys",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 厂长2K",
@@ -3964,7 +3964,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "Czzy",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] LBV2K",
@@ -3975,7 +3975,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "Libvio",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 嗷嗚短剧",
@@ -3987,7 +3987,7 @@
       "changeable": 0,
       "ext": "DjHggg",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 豪堪短剧",
@@ -3998,7 +3998,7 @@
       "quickSearch": 0,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 盒马短剧",
@@ -4009,7 +4009,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 拜拜短剧",
@@ -4020,7 +4020,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 喵喵短剧",
@@ -4031,7 +4031,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 星星短剧",
@@ -4042,13 +4042,13 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 橘汁",
       "key": "w8_Woshinidie",
       "type": 3,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu-alt.jar;md5;528450abfa7bbee80d68034ae045a1f6",
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu-alt.png;md5;528450abfa7bbee80d68034ae045a1f6",
       "api": "csp_Woshinidie",
       "searchable": 1,
       "quickSearch": 1,
@@ -4063,7 +4063,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "Dubk",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 爱瓜墙外",
@@ -4073,7 +4073,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] U视墙外",
@@ -4083,7 +4083,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 欧乐墙外",
@@ -4093,7 +4093,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 壹帆墙外",
@@ -4103,7 +4103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] Bili",
@@ -4117,7 +4117,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 虎牙Live",
@@ -4131,7 +4131,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 88体育",
@@ -4142,7 +4142,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "BbkqLive",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 合集Bili",
@@ -4161,7 +4161,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 歌曲Bili",
@@ -4179,7 +4179,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 戏曲Bili",
@@ -4197,7 +4197,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 小学教育",
@@ -4215,7 +4215,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 初中教育",
@@ -4233,7 +4233,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 高中教育",
@@ -4251,7 +4251,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 嗷嗚听书",
@@ -4261,7 +4261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 富强听书",
@@ -4271,7 +4271,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 文明听书",
@@ -4281,7 +4281,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] fish",
@@ -4291,7 +4291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "name": "[嗷] 短剧盘搜",
@@ -4301,7 +4301,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "key": "w9_设置",
@@ -4315,14 +4315,14 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_pansou",
       "api": "http://so.yinpai.xyz/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
       "name": "[虎] 盘搜集合",
       "type": 4,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_biliys",
@@ -4336,7 +4336,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_bili",
@@ -4350,7 +4350,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_B站直播",
@@ -4361,21 +4361,21 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_全网",
       "name": "[虎] 全网短剧",
       "type": 4,
       "api": "http://38.76.197.172:15151/duanju.php?type=dquark",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_dmmiku",
       "name": "[虎] 异世界动漫",
       "type": 3,
       "api": "csp_YsjCAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_sa",
@@ -4389,7 +4389,7 @@
         "type": "rect",
         "ratio": 0.75
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_seesee",
@@ -4403,7 +4403,7 @@
         "type": "rect",
         "ratio": 0.75
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_hema",
@@ -4417,7 +4417,7 @@
         "type": "rect",
         "ratio": 0.75
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_juzi",
@@ -4428,35 +4428,35 @@
         "type": "rect",
         "ratio": 0.75
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_luoxue",
       "api": "csp_HBLuoXueCAT",
       "name": "[虎] 落雪弹幕",
       "type": 3,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_HBJuDao",
       "api": "csp_HBJuDaoCAT",
       "name": "[虎] 东厂弹幕",
       "type": 3,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_HBFiveDm",
       "api": "csp_HBFiveDmCAT",
       "name": "[虎] 五漫弹幕",
       "type": 3,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_HBBaoHuo",
       "api": "csp_HBBaoHuoCAT",
       "name": "[虎] 火火弹幕",
       "type": 3,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_shanzha",
@@ -4466,7 +4466,7 @@
       "searchable": 1,
       "filterable": 0,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_duse",
@@ -4476,42 +4476,42 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_落雨",
       "name": "[虎] 落雨弹幕",
       "type": 3,
       "api": "csp_HBXueluoCAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_HBMaiTian",
       "api": "csp_HBMaiTianCAT",
       "name": "[虎] 美美弹幕",
       "type": 3,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_HBDYYZ",
       "api": "csp_HBDYYZCAT",
       "name": "[虎] 驿站弹幕",
       "type": 3,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_HBPianKu8",
       "name": "[虎] 片库弹幕",
       "type": 3,
       "api": "csp_HBPianKu8CAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_巴士",
       "name": "[虎] 巴士弹幕",
       "type": 3,
       "api": "csp_Dm84CAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_灵虎",
@@ -4525,7 +4525,7 @@
         "appkey": "#getapp@TMD@2025",
         "appiv": "#getapp@TMD@2025"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_天天",
@@ -4533,7 +4533,7 @@
       "type": 3,
       "api": "csp_HBtiantianv3CAT",
       "ext": "http://v.rbotv.cn",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_aki",
@@ -4543,7 +4543,7 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_fanqie",
@@ -4553,7 +4553,7 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_juxiafan",
@@ -4563,7 +4563,7 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_qingmai",
@@ -4573,7 +4573,7 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_xingying",
@@ -4583,7 +4583,7 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_磁力",
@@ -4591,14 +4591,14 @@
       "type": 3,
       "api": "csp_Xb6vCAT",
       "ext": "0",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_旺旺",
       "name": "[虎] 旺旺弹幕",
       "type": 3,
       "api": "csp_HBwwggCAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_4Kav",
@@ -4606,7 +4606,7 @@
       "type": 3,
       "api": "csp_HB4kavCAT",
       "playerType": 2,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_追追",
@@ -4614,7 +4614,7 @@
       "type": 3,
       "api": "csp_WcaiCAT",
       "ext": "https://zjuys.com/",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_234XBPQ",
@@ -4634,7 +4634,7 @@
         "分类url": "https://ikan234.com/list/{cateId}-{catePg}.html",
         "分类": "电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_三九",
@@ -4642,7 +4642,7 @@
       "type": 3,
       "api": "csp_HBPQCAT",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/三九影视.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_三四",
@@ -4650,7 +4650,7 @@
       "type": 3,
       "api": "csp_HBPQCAT",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/三四影视.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_雪糕",
@@ -4658,7 +4658,7 @@
       "type": 3,
       "api": "csp_HBPQCAT",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/雪糕影视.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_永乐",
@@ -4666,7 +4666,7 @@
       "type": 3,
       "api": "csp_HBPQCAT",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/永乐影视.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_傻样",
@@ -4677,7 +4677,7 @@
       "ext": {
         "site": "http://38.76.197.172:12521/"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_P123",
@@ -4688,7 +4688,7 @@
       "ext": {
         "site": "http://123.666291.xyz/"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_多多",
@@ -4699,7 +4699,7 @@
       "ext": {
         "site": "https://tv.yydsys.top/"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_ou多",
@@ -4710,7 +4710,7 @@
       "ext": {
         "site": "https://woog.nxog.eu.org/"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_二小",
@@ -4721,7 +4721,7 @@
       "ext": {
         "site": "https://xhww.net"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_meijumi",
@@ -4734,7 +4734,7 @@
         "type": "rect",
         "ratio": 0.75
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_tenteng",
@@ -4742,7 +4742,7 @@
       "type": 3,
       "api": "http://38.76.197.42:25252/仅供测试/lib/drpy2.min.js",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/腾腾.js",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_youyou",
@@ -4750,7 +4750,7 @@
       "type": 3,
       "api": "http://38.76.197.42:25252/仅供测试/lib/drpy2.min.js",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/优优.js",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_qiqi",
@@ -4758,7 +4758,7 @@
       "type": 3,
       "api": "http://38.76.197.42:25252/仅供测试/lib/drpy2.min.js",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/奇奇.js",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_mangmang",
@@ -4766,14 +4766,14 @@
       "type": 3,
       "api": "http://38.76.197.42:25252/仅供测试/lib/drpy2.min.js",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/茫茫.js",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_馆源",
       "name": "[虎] 馆源",
       "type": 3,
       "api": "csp_HB360CAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_kaixin",
@@ -4783,28 +4783,28 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_土豆",
       "name": "[虎] 土豆搜索",
       "type": 3,
       "api": "csp_HBtdouCAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_体育",
       "name": "[虎] 体育实时",
       "type": 3,
       "api": "csp_KanqiuCAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_HB36DJ",
       "name": "[虎] 摇滚DJ",
       "type": 3,
       "api": "csp_HB36DJCAT",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_dj111",
@@ -4818,7 +4818,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_静月",
@@ -4826,7 +4826,7 @@
       "type": 3,
       "api": "http://38.76.197.42:25252/仅供测试/lib/drpy2.min.js",
       "ext": "http://38.76.197.42:25252/仅供测试/lib/养生.js",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w9_firstaid",
@@ -4839,7 +4839,7 @@
         "type": "rect",
         "ratio": 0.75
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.jar;md5;a5662d6f267f3e64b95c5881a47e3462"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.png;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
       "key": "w10_荐片",
@@ -4850,7 +4850,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/cainisi.jar;md5;aa8d37525617af470b3b8dfc91db8669"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/cainisi.png;md5;aa8d37525617af470b3b8dfc91db8669"
     },
     {
       "key": "w10_原创",
@@ -4861,7 +4861,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/cainisi.jar;md5;aa8d37525617af470b3b8dfc91db8669"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/cainisi.png;md5;aa8d37525617af470b3b8dfc91db8669"
     },
     {
       "key": "w10_360影视",
@@ -4870,7 +4870,7 @@
       "api": "csp_SP360",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/cainisi-alt.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/cainisi-alt.png;md5;ab7a2bf5947c745657f25c80b337224b"
     },
     {
       "key": "w11_配置中心",
@@ -4884,7 +4884,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-lubin.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-lubin.png;md5;29a9f36b2e4d386a5849aaf80d56662d"
     },
     {
       "key": "w11_JianSou",
@@ -4898,7 +4898,7 @@
         "type": 0,
         "name": " 简搜"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_ZhiZhenPanCms",
@@ -4908,7 +4908,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_戏 曲",
@@ -4919,7 +4919,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://z.qiqiv.cn/666/json/Blixq.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_相声小品",
@@ -4930,7 +4930,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://z.qiqiv.cn/666/json/Blixs.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_演唱会",
@@ -4941,7 +4941,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://z.qiqiv.cn/666/json/演唱会.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_哔哩哔哩",
@@ -4952,7 +4952,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://z.qiqiv.cn/666/json/Bili.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_csp_Bili短剧",
@@ -4963,7 +4963,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://z.qiqiv.cn/666/json/Bili短剧.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_影视解说",
@@ -4974,14 +4974,14 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://z.qiqiv.cn/666/json/影视解说.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.jar;md5;6cbff839f343cd55be30f3eb18ddc27c"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.png;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w12_弹幕",
       "name": "[南] 嗷呜弹幕设置",
       "type": 3,
       "api": "csp_AAConfigAmns",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "key": "w12_ConfigCenter",
@@ -4993,7 +4993,7 @@
       "ext": {
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_剧圈",
@@ -5009,7 +5009,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_csp_Dygang",
@@ -5019,7 +5019,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_csp_New6v",
@@ -5029,7 +5029,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_csp_MeijuMi",
@@ -5040,7 +5040,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.meijumi.net/",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "name": "[南] 特狗",
@@ -5051,7 +5051,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV6Tg",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.jar;md5;2dd93067babd96be152a4ef45e2ce7f8"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/aowu.png;md5;2dd93067babd96be152a4ef45e2ce7f8"
     },
     {
       "key": "w12_SeedHub",
@@ -5064,7 +5064,7 @@
       "ext": {
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_pansou|fish",
@@ -5083,7 +5083,7 @@
         },
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_歌",
@@ -5101,7 +5101,7 @@
         ],
         "filter": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_剧透社",
@@ -5115,7 +5115,7 @@
         "siteUrl": "https://1.star2.cn",
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_FourKZN",
@@ -5128,7 +5128,7 @@
         "siteUrl": "https://4kzn.cc",
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_网盘集合",
@@ -5142,7 +5142,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "share": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_Youtube",
@@ -5159,7 +5159,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "json": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_斗鱼",
@@ -5173,7 +5173,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_酷我听书",
@@ -5181,7 +5181,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/酷我听书.js",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_哔哩",
@@ -5200,7 +5200,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_演唱会",
@@ -5219,7 +5219,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_少儿",
@@ -5238,7 +5238,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_小学",
@@ -5257,7 +5257,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_初中",
@@ -5276,7 +5276,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w12_高中",
@@ -5295,7 +5295,7 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "cookie": ""
       },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/nanfeng.png;md5;2fe20a9210f68dec7863a0b31a2b85d4"
     },
     {
       "key": "w13_潮 汕",
@@ -5306,7 +5306,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://z.qiqiv.cn/666/json/Bli潮汕.json",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiqu.jar;md5;19a2394581c78bee735242b9dc009058"
+      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiqu.png;md5;19a2394581c78bee735242b9dc009058"
     },
     {
       "key": "cms_1",

@@ -36,12 +36,12 @@ def clean_url(value):
 def jar_name(url, used):
     for needle, name in NAME_HINTS:
         if needle in url:
-            candidate = f"{name}.jar"
+            candidate = f"{name}.png"
             break
     else:
-        candidate = f"spider-{hashlib.md5(url.encode()).hexdigest()[:8]}.jar"
+        candidate = f"spider-{hashlib.md5(url.encode()).hexdigest()[:8]}.png"
     if candidate in used:
-        candidate = candidate.replace(".jar", f"-{hashlib.md5(url.encode()).hexdigest()[:6]}.jar")
+        candidate = candidate.replace(".png", f"-{hashlib.md5(url.encode()).hexdigest()[:6]}.png")
     used.add(candidate)
     return candidate
 
