@@ -204,16 +204,6 @@
       "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
     {
-      "key": "w1_JPJ",
-      "name": "荐片",
-      "type": 3,
-      "api": "csp_JPJGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "w1_Auete",
       "name": "奥特",
       "type": 3,
