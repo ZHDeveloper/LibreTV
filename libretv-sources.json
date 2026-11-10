@@ -25,7 +25,6 @@
     { "name": "最大资源", "url": "https://api.zuidapi.com/api.php/provide/vod", "isAdult": false },
     { "name": "暴风资源", "url": "https://bfzyapi.com/api.php/provide/vod", "isAdult": false },
     { "name": "金鹰资源", "url": "https://jyzyapi.com/provide/vod", "isAdult": false },
-    { "name": "魔都影视", "url": "https://www.mdzyapi.com/api.php/provide/vod", "isAdult": false },
     { "name": "淘片资源", "url": "https://taopianapi.com/cjapi/mc/vod/json.html", "isAdult": false }
   ],
   "liveSources": [
