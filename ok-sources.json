@@ -1183,14 +1183,6 @@
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.bin;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
-      "key": "w4_潮流",
-      "name": "潮流",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "http://v.rbotv.cn",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/feimao.bin;md5;6a396033ae45efee57ba789f91d7123e"
-    },
-    {
       "key": "w4_肥猫",
       "name": "肥猫",
       "type": 3,
@@ -2609,21 +2601,6 @@
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.bin;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
-      "key": "w6_SeedHub",
-      "name": "Seed4K",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://sidhub.cc",
-          "https://seeduck.cc",
-          "https://hubdog.cc"
-        ]
-      },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.bin;md5;c91563ada7c35b4f33bd81c50c96eab5"
-    },
-    {
       "key": "w6_PanWebShare123",
       "name": "1234K",
       "type": 3,
@@ -2640,27 +2617,6 @@
         "site": [
           "https://123panfx.com",
           "https://pan1.me"
-        ],
-        "cookie": ""
-      },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.bin;md5;c91563ada7c35b4f33bd81c50c96eab5"
-    },
-    {
-      "key": "w6_PanWebShareGuangYa",
-      "name": "光鸭4K",
-      "type": 3,
-      "api": "csp_PanWebShareGuangYa",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "https://www.guangya.net"
         ],
         "cookie": ""
       },
@@ -2833,33 +2789,6 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.bin;md5;c91563ada7c35b4f33bd81c50c96eab5"
-    },
-    {
-      "key": "w6_JSo",
-      "name": "珈珈搜索",
-      "type": 3,
-      "api": "csp_JSo",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://j-so.com"
-        ]
-      },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.bin;md5;c91563ada7c35b4f33bd81c50c96eab5"
-    },
-    {
-      "key": "w6_Tiu6",
-      "name": "Tiu6",
-      "type": 3,
-      "api": "csp_Tiu6",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "https://www.tiu6.cn"
-        ]
-      },
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/moyuer.bin;md5;c91563ada7c35b4f33bd81c50c96eab5"
     },
     {
@@ -3172,24 +3101,6 @@
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
-      "key": "w7_种子",
-      "name": "种子4K",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 0,
-      "ext": {
-        "site": [
-          "https://sidhub.cc",
-          "https://seeduck.cc",
-          "https://hubdog.cc",
-          "http://104.243.25.80"
-        ]
-      },
-      "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
-    },
-    {
       "key": "w7_搬运",
       "name": "搬运4K",
       "type": 3,
@@ -3293,28 +3204,6 @@
       "type": 3,
       "api": "csp_ShortHaokan",
       "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
-    },
-    {
-      "key": "w7_星芽短剧",
-      "name": "星芽短剧",
-      "type": 3,
-      "api": "csp_ShortXingya",
-      "genre": "shortdrama",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
-    },
-    {
-      "key": "w7_星辰影视",
-      "name": "星辰影视",
-      "type": 3,
-      "api": "csp_XingChen",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
-    },
-    {
-      "key": "w7_飞娱影视",
-      "name": "飞娱影视",
-      "type": 3,
-      "api": "csp_Feiyu",
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
@@ -3572,17 +3461,6 @@
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
     {
-      "key": "w7_趣盘",
-      "name": "趣盘搜索",
-      "type": 3,
-      "api": "csp_QuPanSo",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
-    },
-    {
       "key": "w7_88看球",
       "name": "88看球",
       "type": 3,
@@ -3681,20 +3559,6 @@
       "changeable": 0,
       "style": {
         "type": "list"
-      },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
-    },
-    {
-      "key": "w7_童趣",
-      "name": "童趣儿童",
-      "type": 3,
-      "api": "csp_TongQu",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
       },
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaosa.bin;md5;2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
     },
@@ -4528,14 +4392,6 @@
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.bin;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
-      "key": "w9_天天",
-      "name": "天天弹幕",
-      "type": 3,
-      "api": "csp_HBtiantianv3CAT",
-      "ext": "http://v.rbotv.cn",
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.bin;md5;a5662d6f267f3e64b95c5881a47e3462"
-    },
-    {
       "key": "w9_aki",
       "name": "Aki动漫",
       "type": 3,
@@ -4713,17 +4569,6 @@
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.bin;md5;a5662d6f267f3e64b95c5881a47e3462"
     },
     {
-      "key": "w9_二小",
-      "name": "二小4k网盘",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_MoggCAT",
-      "ext": {
-        "site": "https://xhww.net"
-      },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/xiaohuban.bin;md5;a5662d6f267f3e64b95c5881a47e3462"
-    },
-    {
       "key": "w9_meijumi",
       "name": "美剧磁力",
       "type": 3,
@@ -4885,20 +4730,6 @@
         "ratio": 1.597
       },
       "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-lubin.bin;md5;29a9f36b2e4d386a5849aaf80d56662d"
-    },
-    {
-      "key": "w11_JianSou",
-      "name": "简搜4K",
-      "type": 3,
-      "api": "csp_JianSou",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "http://118.89.172.248:8000",
-        "type": 0,
-        "name": " 简搜"
-      },
-      "jar": "https://cdn.jsdelivr.net/gh/ZHDeveloper/LibreTV@main/spiders/eryuehong-tan.bin;md5;6cbff839f343cd55be30f3eb18ddc27c"
     },
     {
       "key": "w11_ZhiZhenPanCms",
