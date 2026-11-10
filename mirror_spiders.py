@@ -8,6 +8,8 @@ new MD5, which would make TVBox reject the file.
 import hashlib
 import io
 import json
+import shutil
+import subprocess
 import sys
 import time
 import urllib.request
@@ -21,15 +23,33 @@ CONFIG = Path("ok-sources.json")
 
 
 def fetch(url, attempts=2):
+    curl = shutil.which("curl")
     last = None
     for _ in range(attempts):
+        if curl:
+            try:
+                proc = subprocess.run(
+                    [
+                        curl, "-fsSL", "--connect-timeout", "10", "--max-time", "25",
+                        "-A", "okhttp/4.12.0", url,
+                    ],
+                    capture_output=True,
+                    timeout=35,
+                )
+                if proc.returncode == 0 and proc.stdout:
+                    return proc.stdout
+                last = proc.stderr.decode("utf-8", errors="ignore").strip()[:200]
+            except Exception as exc:
+                last = exc
+            time.sleep(2)
+            continue
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "okhttp/4.12.0"})
             with urllib.request.urlopen(req, timeout=20) as resp:
                 return resp.read()
         except Exception as exc:
             last = exc
-            time.sleep(5)
+            time.sleep(2)
     raise last
 
 
