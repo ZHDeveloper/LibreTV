@@ -12,6 +12,7 @@ import sys
 import time
 import urllib.request
 import zipfile
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 SPIDERS = Path("spiders")
@@ -19,12 +20,12 @@ MANIFEST = SPIDERS / "upstream.json"
 CONFIG = Path("ok-sources.json")
 
 
-def fetch(url, attempts=3):
+def fetch(url, attempts=2):
     last = None
     for _ in range(attempts):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "okhttp/4.12.0"})
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=20) as resp:
                 return resp.read()
         except Exception as exc:
             last = exc
@@ -57,36 +58,45 @@ def remap(value, refs):
     return f"{url.rsplit('/', 1)[0]}/{new_name};md5;{new_md5}"
 
 
+def refresh(base, entry):
+    try:
+        blob = fetch(entry["upstream"])
+        validate(blob, entry["upstream"])
+        md5 = hashlib.md5(blob).hexdigest()
+        current = SPIDERS / entry["file"]
+
+        if md5 == entry["md5"] and current.exists():
+            return base, entry["md5"], md5, entry["file"], entry["file"], None
+
+        new_file = f"{base}-{md5[:8]}.png"
+        (SPIDERS / new_file).write_bytes(blob)
+        if new_file != entry["file"] and current.exists():
+            current.unlink()
+        return base, entry["md5"], md5, entry["file"], new_file, None
+    except Exception as exc:
+        return base, entry["md5"], entry["md5"], entry["file"], entry["file"], str(exc)
+
+
 def main():
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     refs = {}
     changed = []
     errors = []
 
-    for base, entry in manifest.items():
-        try:
-            blob = fetch(entry["upstream"])
-            validate(blob, entry["upstream"])
-            md5 = hashlib.md5(blob).hexdigest()
-            current = SPIDERS / entry["file"]
-            new_file = f"{base}-{md5[:8]}.png"
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        results = list(pool.map(lambda kv: refresh(*kv), manifest.items()))
 
-            if md5 == entry["md5"] and current.exists():
-                refs[entry["file"]] = (entry["file"], md5)
-                continue
-
-            (SPIDERS / new_file).write_bytes(blob)
-            if new_file != entry["file"] and current.exists():
-                current.unlink()
-
-            refs[entry["file"]] = (new_file, md5)
-            # A config may already point at this version from an earlier run.
-            refs[new_file] = (new_file, md5)
-            changed.append(f"{base}: {entry['md5']} -> {md5} ({new_file})")
-            entry["file"] = new_file
-            entry["md5"] = md5
-        except Exception as exc:
-            errors.append(f"{base}: {exc}")
+    for base, old_md5, md5, old_file, new_file, error in results:
+        if error:
+            errors.append(f"{base}: {error}")
+            continue
+        refs[old_file] = (new_file, md5)
+        # A config may already point at this version from an earlier run.
+        refs[new_file] = (new_file, md5)
+        if md5 != old_md5 or new_file != old_file:
+            changed.append(f"{base}: {old_md5} -> {md5} ({new_file})")
+            manifest[base]["file"] = new_file
+            manifest[base]["md5"] = md5
 
     config_text = CONFIG.read_text(encoding="utf-8")
     config = json.loads(config_text)
