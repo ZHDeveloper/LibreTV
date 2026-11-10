@@ -3,6 +3,19 @@
   "wallpaper": "https://bing.img.run/rand_1366x768.php",
   "sites": [
     {
+      "key": "w1_玩偶",
+      "name": "玩偶4K",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
       "key": "home_douban",
       "name": "豆瓣片单",
       "type": 3,
@@ -23,19 +36,6 @@
       "style": {
         "type": "oval"
       },
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
-    },
-    {
-      "key": "w1_玩偶",
-      "name": "玩偶4K",
-      "type": 3,
-      "api": "csp_WoGGGuard",
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
