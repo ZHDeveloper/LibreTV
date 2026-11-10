@@ -1,6 +1,6 @@
 """Refresh mirrored Spider JARs from spiders/upstream.json.
 
-Each upstream jar is stored as <base>-<md5[:8]>.png so every update gets a
+Each upstream jar is stored as <base>-<md5[:8]>.bin so every update gets a
 new jsDelivr URL. That avoids serving a stale cached JAR together with a
 new MD5, which would make TVBox reject the file.
 """
@@ -88,7 +88,7 @@ def refresh(base, entry):
         if md5 == entry["md5"] and current.exists():
             return base, entry["md5"], md5, entry["file"], entry["file"], None
 
-        new_file = f"{base}-{md5[:8]}.png"
+        new_file = f"{base}-{md5[:8]}.bin"
         (SPIDERS / new_file).write_bytes(blob)
         if new_file != entry["file"] and current.exists():
             current.unlink()
