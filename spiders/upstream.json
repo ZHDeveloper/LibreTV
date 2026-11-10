@@ -17,17 +17,20 @@
   "wangerxiao": {
     "upstream": "http://oss4liview.moji.com/thd_file/2026/11/06/99191348af7606ed51e66a4f13a85d8e.jpg",
     "file": "wangerxiao.bin",
-    "md5": "53e039fb19875d5cfec02a0910399ffd"
+    "md5": "53e039fb19875d5cfec02a0910399ffd",
+    "frozen": true
   },
   "moyuer": {
     "upstream": "https://qiniu.gongxueyun.com/upload/2624916/2026-11-09/training_record/654477805_4_1794197377422.jar",
     "file": "moyuer.bin",
-    "md5": "c91563ada7c35b4f33bd81c50c96eab5"
+    "md5": "c91563ada7c35b4f33bd81c50c96eab5",
+    "frozen": true
   },
   "xiaosa": {
     "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261109/60MK/0X0/11081015.png",
     "file": "xiaosa.bin",
-    "md5": "2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+    "md5": "2fe5d9e9b6a9cb76f1d1dd3d8b68290d",
+    "frozen": true
   },
   "aowu": {
     "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/0286b8d7-091c-456f-ad86-f17f7ec93778.png",

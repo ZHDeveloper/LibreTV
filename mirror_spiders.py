@@ -3,6 +3,10 @@
 Each upstream jar is stored as <base>-<md5[:8]>.bin so every update gets a
 new jsDelivr URL. That avoids serving a stale cached JAR together with a
 new MD5, which would make TVBox reject the file.
+
+Entries flagged "frozen" point at dated or hash-addressed snapshots that the
+host never rewrites, so they are not fetched. To pick up a new version, find
+the new upstream URL, replace "upstream", clear "frozen", and rerun this script.
 """
 
 import hashlib
@@ -50,6 +54,8 @@ def fetch(url, attempts=2):
         except Exception as exc:
             last = exc
             time.sleep(2)
+    if not isinstance(last, BaseException):
+        last = RuntimeError(str(last))
     raise last
 
 
@@ -79,11 +85,18 @@ def remap(value, refs):
 
 
 def refresh(base, entry):
+    current = SPIDERS / entry["file"]
+    if entry.get("frozen"):
+        if not current.exists():
+            return base, entry["md5"], entry["md5"], entry["file"], entry["file"], "mirror missing"
+        md5 = hashlib.md5(current.read_bytes()).hexdigest()
+        if md5 != entry["md5"]:
+            return base, entry["md5"], entry["md5"], entry["file"], entry["file"], f"mirror md5 {md5} != {entry['md5']}"
+        return base, entry["md5"], md5, entry["file"], current.name, None
     try:
         blob = fetch(entry["upstream"])
         validate(blob, entry["upstream"])
         md5 = hashlib.md5(blob).hexdigest()
-        current = SPIDERS / entry["file"]
 
         if md5 == entry["md5"] and current.exists():
             return base, entry["md5"], md5, entry["file"], entry["file"], None
@@ -138,7 +151,8 @@ def main():
         print("CHANGED", line)
     for line in errors:
         print("WARN", line, file=sys.stderr)
-    print(f"checked={len(manifest)} changed={len(changed)} failed={len(errors)}")
+    frozen = sum(1 for entry in manifest.values() if entry.get("frozen"))
+    print(f"checked={len(manifest)} changed={len(changed)} failed={len(errors)} frozen={frozen}")
 
     if errors and not changed:
         sys.exit(1)
