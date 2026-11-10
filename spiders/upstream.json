@@ -1,0 +1,77 @@
+{
+  "fantaiying": {
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/937f5abf1c7c4ff2f170d835c5c46c21.jpg",
+    "file": "fantaiying.png",
+    "md5": "9d5f341aa5f3353b50cc3bc16b4f3e8a"
+  },
+  "xiaomi": {
+    "upstream": "https://cac.opple.com/yc-media/getFile?id=f61279a6953f4206bdcbd1c86a8804d3",
+    "file": "xiaomi.png",
+    "md5": "3130dcf9527d5aeaa37f4eb30f08ca26"
+  },
+  "feimao": {
+    "upstream": "https://img2.gelonghui.com/library/6a396-4e09c48e-c9bc-4313-b788-8d5120f90e5d.png",
+    "file": "feimao.png",
+    "md5": "6a396033ae45efee57ba789f91d7123e"
+  },
+  "wangerxiao": {
+    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/06/99191348af7606ed51e66a4f13a85d8e.jpg",
+    "file": "wangerxiao.png",
+    "md5": "53e039fb19875d5cfec02a0910399ffd"
+  },
+  "moyuer": {
+    "upstream": "https://qiniu.gongxueyun.com/upload/2624916/2026-11-09/training_record/654477805_4_1794197377422.jar",
+    "file": "moyuer.png",
+    "md5": "c91563ada7c35b4f33bd81c50c96eab5"
+  },
+  "xiaosa": {
+    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261109/60MK/0X0/11081015.png",
+    "file": "xiaosa.png",
+    "md5": "2fe5d9e9b6a9cb76f1d1dd3d8b68290d"
+  },
+  "aowu": {
+    "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/0286b8d7-091c-456f-ad86-f17f7ec93778.png",
+    "file": "aowu.png",
+    "md5": "2dd93067babd96be152a4ef45e2ce7f8"
+  },
+  "aowu-alt": {
+    "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png",
+    "file": "aowu-alt.png",
+    "md5": "528450abfa7bbee80d68034ae045a1f6"
+  },
+  "xiaohuban": {
+    "upstream": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar",
+    "file": "xiaohuban.png",
+    "md5": "a5662d6f267f3e64b95c5881a47e3462"
+  },
+  "cainisi": {
+    "upstream": "https://tv.xn--yhqu5zs87a.top/jar/fty1016.jar",
+    "file": "cainisi.png",
+    "md5": "aa8d37525617af470b3b8dfc91db8669"
+  },
+  "cainisi-alt": {
+    "upstream": "https://tv.xn--yhqu5zs87a.top/jar/xyq0728.jar",
+    "file": "cainisi-alt.png",
+    "md5": "ab7a2bf5947c745657f25c80b337224b"
+  },
+  "eryuehong-lubin": {
+    "upstream": "http://118.89.172.248:8025/jar/lubin.php",
+    "file": "eryuehong-lubin.png",
+    "md5": "29a9f36b2e4d386a5849aaf80d56662d"
+  },
+  "eryuehong-tan": {
+    "upstream": "http://118.89.172.248:8025/jar/tan.php",
+    "file": "eryuehong-tan.png",
+    "md5": "6cbff839f343cd55be30f3eb18ddc27c"
+  },
+  "nanfeng": {
+    "upstream": "https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar",
+    "file": "nanfeng.png",
+    "md5": "2fe20a9210f68dec7863a0b31a2b85d4"
+  },
+  "xiqu": {
+    "upstream": "https://z.qiqiv.cn/666/spider.jar",
+    "file": "xiqu.png",
+    "md5": "19a2394581c78bee735242b9dc009058"
+  }
+}
