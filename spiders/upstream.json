@@ -20,19 +20,19 @@
     "md5": "53e039fb19875d5cfec02a0910399ffd"
   },
   "moyuer": {
-    "upstream": "https://qiniu.gongxueyun.com/upload/2624916/2026-11-09/training_record/654477805_4_1794197377422.jar",
-    "file": "moyuer.bin",
-    "md5": "c91563ada7c35b4f33bd81c50c96eab5"
+    "upstream": "https://qiniu.gongxueyun.com/upload/8927661/2026-11-10/training_record/721461376_4_1794323426144.jar",
+    "file": "moyuer-8b09e922.bin",
+    "md5": "8b09e92274a61404af204b4e0cc82583"
   },
   "xiaosa": {
-    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261110/bvnB/0X0/11101405.png",
-    "file": "xiaosa-d926148c.bin",
-    "md5": "d926148cb5eb6fa6495568adb9a6ae28"
+    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261111/S2Go/0X0/11110833.png",
+    "file": "xiaosa-c25d34b0.bin",
+    "md5": "c25d34b0cfc044cd1ab3f225097ea7fd"
   },
   "aowu": {
-    "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/0286b8d7-091c-456f-ad86-f17f7ec93778.png",
-    "file": "aowu.bin",
-    "md5": "2dd93067babd96be152a4ef45e2ce7f8"
+    "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png",
+    "file": "aowu-bb065fc3.bin",
+    "md5": "bb065fc30372ceee6fb15feec0c6a5fe"
   },
   "aowu-alt": {
     "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png",
@@ -41,8 +41,8 @@
   },
   "xiaohuban": {
     "upstream": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar",
-    "file": "xiaohuban.bin",
-    "md5": "a5662d6f267f3e64b95c5881a47e3462"
+    "file": "xiaohuban-4ec3d840.bin",
+    "md5": "4ec3d8403bcb9afecf8a2fb01a7c4588"
   },
   "cainisi": {
     "upstream": "https://tv.xn--yhqu5zs87a.top/jar/fty1016.jar",
