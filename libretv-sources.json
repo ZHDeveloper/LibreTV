@@ -28,6 +28,6 @@
     { "name": "淘片资源", "url": "https://taopianapi.com/cjapi/mc/vod/json.html", "isAdult": false }
   ],
   "liveSources": [
-    { "name": "LibreTV 聚合精选", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u" }
+    { "name": "聚合精选", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u" }
   ]
 }

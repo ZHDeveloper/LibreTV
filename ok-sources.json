@@ -5334,7 +5334,7 @@
   ],
   "lives": [
     {
-      "name": "LibreTV 聚合精选",
+      "name": "聚合精选",
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.txt",
       "playerType": 1,
