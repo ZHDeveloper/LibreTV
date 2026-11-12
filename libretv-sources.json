@@ -28,18 +28,6 @@
     { "name": "淘片资源", "url": "https://taopianapi.com/cjapi/mc/vod/json.html", "isAdult": false }
   ],
   "liveSources": [
-    { "name": "LibreTV 聚合精选 (自动维护)", "url": "https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u" },
-    { "name": "国内IPTV · zbds", "url": "https://live.zbds.top/tv/iptv4.m3u" },
-    { "name": "国内综合 IPv4 (央视/卫视)", "url": "https://peterhchina.github.io/iptv/CNTV-V4.m3u" },
-    { "name": "国内IPTV · Guovin", "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u" },
-    { "name": "国内综合 IPv4 · suxuang", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u" },
-    { "name": "央视频专区", "url": "https://mpimg.cn/down.php/caac7a6dae8f835257a11e7a11291bf2.txt" },
-    { "name": "港澳台及海外 · YueChan", "url": "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u" },
-    { "name": "综合源 · Kimentanm", "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u" },
-    { "name": "综合源 · YanG", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u" },
-    { "name": "4K专区", "url": "https://gist.githubusercontent.com/yifanwang-yet/c2c9263066c0c5d20f50ce9b31d40e7e/raw/libretv-4k.m3u" },
-    { "name": "B站直播精选", "url": "https://sub.ottiptv.cc/bililive.m3u" },
-    { "name": "虎牙一起看", "url": "https://sub.ottiptv.cc/huyayqk.m3u" },
-    { "name": "斗鱼一起看", "url": "https://sub.ottiptv.cc/douyuyqk.m3u" }
+    { "name": "LibreTV 聚合精选", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u" }
   ]
 }

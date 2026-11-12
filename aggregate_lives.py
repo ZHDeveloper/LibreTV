@@ -33,6 +33,7 @@ logger = logging.getLogger("live_aggregator")
 
 ROOT_DIR = Path(__file__).resolve().parent
 LIVE_DIR = ROOT_DIR / "live"
+UPSTREAM_CONFIG = LIVE_DIR / "upstream.json"
 SOURCES_CONFIG = ROOT_DIR / "ok-sources.json"
 
 DEFAULT_EPG = "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
@@ -541,9 +542,13 @@ def generate_playlists(grouped_channels: Dict[str, List[dict]]) -> Tuple[str, st
     summary_md.extend([
         "",
         "### 🔗 订阅地址",
-        "- **M3U 订阅 (带EPG与Logo)**: `https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u`",
-        "- **TVBox / DIYP 订阅 (TXT)**: `https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.txt`",
-        "- **国内 CDN 镜像 (jsDelivr)**:",
+        "- **加速代理订阅 (推荐国内使用)**:",
+        "  - M3U 订阅 (带EPG与Logo): `https://gh-proxy.org/https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u`",
+        "  - TVBox / DIYP 订阅 (TXT): `https://gh-proxy.org/https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.txt`",
+        "- **原生 GitHub 订阅**:",
+        "  - M3U: `https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u`",
+        "  - TXT: `https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.txt`",
+        "- **jsDelivr CDN 镜像**:",
         "  - M3U: `https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/live/live.m3u`",
         "  - TXT: `https://cdn.jsdelivr.net/gh/ZHDeveloper/tv-sources@main/live/live.txt`",
     ])
@@ -556,20 +561,24 @@ async def main():
     start_time = time.monotonic()
     logger.info("IPTV Live Aggregator starting...")
 
-    if not SOURCES_CONFIG.exists():
-        logger.error(f"Config file not found: {SOURCES_CONFIG}")
+    # Load upstream sources: prefer live/upstream.json if present
+    live_sources = []
+    if UPSTREAM_CONFIG.exists():
+        with open(UPSTREAM_CONFIG, "r", encoding="utf-8") as f:
+            live_sources = json.load(f)
+        logger.info(f"Loaded {len(live_sources)} upstream live sources from {UPSTREAM_CONFIG.name}")
+    elif SOURCES_CONFIG.exists():
+        with open(SOURCES_CONFIG, "r", encoding="utf-8") as f:
+            config_data = json.load(f)
+        all_live_sources = config_data.get("lives", [])
+        live_sources = [
+            s for s in all_live_sources
+            if "live.txt" not in s.get("url", "") and "live.m3u" not in s.get("url", "") and "聚合精选" not in s.get("name", "")
+        ]
+        logger.info(f"Loaded {len(live_sources)} live sources from {SOURCES_CONFIG.name}")
+    else:
+        logger.error("No upstream sources file found!")
         sys.exit(1)
-
-    with open(SOURCES_CONFIG, "r", encoding="utf-8") as f:
-        config_data = json.load(f)
-
-    all_live_sources = config_data.get("lives", [])
-    # Guard: never consume our own generated playlist as upstream source
-    live_sources = [
-        s for s in all_live_sources
-        if "live.txt" not in s.get("url", "") and "live.m3u" not in s.get("url", "") and "聚合精选" not in s.get("name", "")
-    ]
-    logger.info(f"Loaded {len(live_sources)} live sources from ok-sources.json")
 
     # Step 1: Concurrently fetch all source playlists
     connector = aiohttp.TCPConnector(limit=15, ssl=False)

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "zbds IPTV",
+    "type": 0,
+    "url": "https://live.zbds.top/tv/iptv4.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "综合国内 IPv4",
+    "type": 0,
+    "url": "https://peterhchina.github.io/iptv/CNTV-V4.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "Guovin IPTV",
+    "type": 0,
+    "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "suxuang IPv4",
+    "type": 0,
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "央视频专区",
+    "type": 0,
+    "url": "https://mpimg.cn/down.php/caac7a6dae8f835257a11e7a11291bf2.txt",
+    "playerType": 1
+  },
+  {
+    "name": "YueChan 港澳台",
+    "type": 0,
+    "url": "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "Kimentanm 综合",
+    "type": 0,
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "YanG 综合",
+    "type": 0,
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "4K专区",
+    "type": 0,
+    "url": "https://gist.githubusercontent.com/yifanwang-yet/c2c9263066c0c5d20f50ce9b31d40e7e/raw/libretv-4k.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "B站直播",
+    "type": 0,
+    "url": "https://sub.ottiptv.cc/bililive.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "虎牙一起看",
+    "type": 0,
+    "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "斗鱼一起看",
+    "type": 0,
+    "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+    "playerType": 1
+  },
+  {
+    "name": "综合",
+    "type": 0,
+    "url": "http://193.123.86.190:14888/TV/iptv.php",
+    "ua": "bingcha/1.1 (mianfeifenxiang)",
+    "playerType": 2
+  },
+  {
+    "name": "YY轮播",
+    "type": 0,
+    "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+    "playerType": 2,
+    "timeout": 10,
+    "ua": "okHttp/Mod-1.5.0.0"
+  },
+  {
+    "name": "Gather「果」",
+    "type": 3,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "ua": "okhttp/3.8.1",
+    "timeout": 10,
+    "playerType": 2
+  },
+  {
+    "name": "平台直播",
+    "type": 0,
+    "url": "http://118.89.172.248:8025/jar/zb.php",
+    "playerType": 1
+  },
+  {
+    "name": "Yoursmile",
+    "type": 0,
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+    "ua": "okhttp/3.15",
+    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+  }
+]
