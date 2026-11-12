@@ -1,8 +1,8 @@
 {
   "fantaiying": {
-    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/937f5abf1c7c4ff2f170d835c5c46c21.jpg",
-    "file": "fantaiying.bin",
-    "md5": "9d5f341aa5f3353b50cc3bc16b4f3e8a"
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/c28784a6ef0dd766a33d69837920332a.jpg",
+    "file": "fantaiying-164fa61b.bin",
+    "md5": "164fa61b160f3119f4f21489b9dfaf56"
   },
   "xiaomi": {
     "upstream": "https://cac.opple.com/yc-media/getFile?id=f61279a6953f4206bdcbd1c86a8804d3",
@@ -15,9 +15,9 @@
     "md5": "6a396033ae45efee57ba789f91d7123e"
   },
   "wangerxiao": {
-    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/06/99191348af7606ed51e66a4f13a85d8e.jpg",
-    "file": "wangerxiao.bin",
-    "md5": "53e039fb19875d5cfec02a0910399ffd"
+    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/12/7b563c7039830e7c712e93f27fd2e102.jpg",
+    "file": "wangerxiao-541366f5.bin",
+    "md5": "541366f5860ceb66e1c3005f5a299afe"
   },
   "moyuer": {
     "upstream": "https://qiniu.gongxueyun.com/upload/8927661/2026-11-10/training_record/721461376_4_1794323426144.jar",
@@ -25,14 +25,14 @@
     "md5": "8b09e92274a61404af204b4e0cc82583"
   },
   "xiaosa": {
-    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261111/S2Go/0X0/11110833.png",
-    "file": "xiaosa-c25d34b0.bin",
-    "md5": "c25d34b0cfc044cd1ab3f225097ea7fd"
+    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261111/nmKz/0X0/11111906.png",
+    "file": "xiaosa-a2928946.bin",
+    "md5": "a2928946eb00e5fee87663c94ae37bff"
   },
   "aowu": {
-    "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png",
-    "file": "aowu-bb065fc3.bin",
-    "md5": "bb065fc30372ceee6fb15feec0c6a5fe"
+    "upstream": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261111/04d7de872fa893cd2cf6139cab519da0.png",
+    "file": "aowu-6870d543.bin",
+    "md5": "6870d54372a2b98ee6f327bae3541dbd"
   },
   "aowu-alt": {
     "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png",
@@ -41,8 +41,8 @@
   },
   "xiaohuban": {
     "upstream": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar",
-    "file": "xiaohuban-4ec3d840.bin",
-    "md5": "4ec3d8403bcb9afecf8a2fb01a7c4588"
+    "file": "xiaohuban-7f6c0fbb.bin",
+    "md5": "7f6c0fbb64a909766318b58abd0c4e87"
   },
   "cainisi": {
     "upstream": "https://tv.xn--yhqu5zs87a.top/jar/fty1016.jar",
