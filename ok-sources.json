@@ -5334,6 +5334,13 @@
   ],
   "lives": [
     {
+      "name": "LibreTV 聚合精选",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
       "name": "zbds IPTV",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.m3u",

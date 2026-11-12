@@ -28,6 +28,7 @@
     { "name": "淘片资源", "url": "https://taopianapi.com/cjapi/mc/vod/json.html", "isAdult": false }
   ],
   "liveSources": [
+    { "name": "LibreTV 聚合精选 (自动维护)", "url": "https://raw.githubusercontent.com/ZHDeveloper/tv-sources/main/live/live.m3u" },
     { "name": "国内IPTV · zbds", "url": "https://live.zbds.top/tv/iptv4.m3u" },
     { "name": "国内综合 IPv4 (央视/卫视)", "url": "https://peterhchina.github.io/iptv/CNTV-V4.m3u" },
     { "name": "国内IPTV · Guovin", "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u" },
