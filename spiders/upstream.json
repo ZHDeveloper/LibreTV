@@ -1,13 +1,13 @@
 {
   "fantaiying": {
-    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/c28784a6ef0dd766a33d69837920332a.jpg",
-    "file": "fantaiying-164fa61b.bin",
-    "md5": "164fa61b160f3119f4f21489b9dfaf56"
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/8cc3c376daf1d4beeebb46012ca676a4.jpg",
+    "file": "fantaiying-6d10a60a.bin",
+    "md5": "6d10a60af6c0976836933c5f3cf9e8a7"
   },
   "xiaomi": {
-    "upstream": "https://cac.opple.com/yc-media/getFile?id=f61279a6953f4206bdcbd1c86a8804d3",
-    "file": "xiaomi.bin",
-    "md5": "3130dcf9527d5aeaa37f4eb30f08ca26"
+    "upstream": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180TLfddF2d.png",
+    "file": "xiaomi-3738d426.bin",
+    "md5": "3738d4260d080939c29d71a87e0df264"
   },
   "feimao": {
     "upstream": "https://img2.gelonghui.com/library/6a396-4e09c48e-c9bc-4313-b788-8d5120f90e5d.png",
@@ -20,14 +20,14 @@
     "md5": "541366f5860ceb66e1c3005f5a299afe"
   },
   "moyuer": {
-    "upstream": "https://qiniu.gongxueyun.com/upload/8927661/2026-11-10/training_record/721461376_4_1794323426144.jar",
-    "file": "moyuer-8b09e922.bin",
-    "md5": "8b09e92274a61404af204b4e0cc82583"
+    "upstream": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+    "file": "moyuer-53b51f8c.bin",
+    "md5": "53b51f8c239b727ce4cd18dc2c3b7a99"
   },
   "xiaosa": {
-    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261111/nmKz/0X0/11111906.png",
-    "file": "xiaosa-a2928946.bin",
-    "md5": "a2928946eb00e5fee87663c94ae37bff"
+    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261113/Mywn/0X0/11131823.png",
+    "file": "xiaosa-cbe016eb.bin",
+    "md5": "cbe016eb3cb002ae62058604843f5106"
   },
   "aowu": {
     "upstream": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261111/04d7de872fa893cd2cf6139cab519da0.png",
@@ -41,8 +41,8 @@
   },
   "xiaohuban": {
     "upstream": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar",
-    "file": "xiaohuban-7f6c0fbb.bin",
-    "md5": "7f6c0fbb64a909766318b58abd0c4e87"
+    "file": "xiaohuban-bdcef5c8.bin",
+    "md5": "bdcef5c8be0b7f45864edacf733cedc2"
   },
   "cainisi": {
     "upstream": "https://tv.xn--yhqu5zs87a.top/jar/fty1016.jar",
