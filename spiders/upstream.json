@@ -1,13 +1,13 @@
 {
   "fantaiying": {
-    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/8cc3c376daf1d4beeebb46012ca676a4.jpg",
-    "file": "fantaiying-6d10a60a.bin",
-    "md5": "6d10a60af6c0976836933c5f3cf9e8a7"
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/776af3c4b61098b3573b4973f867010c.jpg",
+    "file": "fantaiying-76e95653.bin",
+    "md5": "76e9565340e6d28c363b914ca2d506ed"
   },
   "xiaomi": {
-    "upstream": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180TLfddF2d.png",
-    "file": "xiaomi-3738d426.bin",
-    "md5": "3738d4260d080939c29d71a87e0df264"
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/326f2833385138a542d6eb3760e45116.png",
+    "file": "xiaomi-5580e7c8.bin",
+    "md5": "5580e7c8665ec3b651c2d3e9ec058f9d"
   },
   "feimao": {
     "upstream": "https://img2.gelonghui.com/library/6a396-4e09c48e-c9bc-4313-b788-8d5120f90e5d.png",
@@ -30,9 +30,9 @@
     "md5": "cbe016eb3cb002ae62058604843f5106"
   },
   "aowu": {
-    "upstream": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261111/04d7de872fa893cd2cf6139cab519da0.png",
-    "file": "aowu-6870d543.bin",
-    "md5": "6870d54372a2b98ee6f327bae3541dbd"
+    "upstream": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261114/fb8598729388cbaf8c808c6ab4895f69.png",
+    "file": "aowu-7bbac56c.bin",
+    "md5": "7bbac56cba13eb7082cf32c283f94619"
   },
   "aowu-alt": {
     "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png",
@@ -41,8 +41,8 @@
   },
   "xiaohuban": {
     "upstream": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar",
-    "file": "xiaohuban-bdcef5c8.bin",
-    "md5": "bdcef5c8be0b7f45864edacf733cedc2"
+    "file": "xiaohuban-5c14ea09.bin",
+    "md5": "5c14ea09141af19563f0d52c9ec380ee"
   },
   "cainisi": {
     "upstream": "https://tv.xn--yhqu5zs87a.top/jar/fty1016.jar",
